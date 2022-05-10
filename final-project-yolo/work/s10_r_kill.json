@@ -1,0 +1,1825 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/s10 r kill/frame2.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806865, "center_y":0.398951, "width":0.055446, "height":0.410334}, "confidence":0.992223}, 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.569570, "center_y":0.398945, "width":0.063102, "height":0.391656}, "confidence":0.992417}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429573, "center_y":0.871667, "width":0.063955, "height":0.104087}, "confidence":0.990330}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/s10 r kill/frame59.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.805151, "center_y":0.906017, "width":0.058886, "height":0.177925}, "confidence":0.876162}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371233, "center_y":0.353319, "width":0.063496, "height":0.126701}, "confidence":0.993328}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686684, "center_y":0.441182, "width":0.061401, "height":0.115875}, "confidence":0.997648}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313494, "center_y":0.792924, "width":0.062349, "height":0.110066}, "confidence":0.993998}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253118, "center_y":0.940798, "width":0.061767, "height":0.117993}, "confidence":0.995001}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628826, "center_y":0.652313, "width":0.061849, "height":0.109266}, "confidence":0.993319}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253636, "center_y":0.646127, "width":0.059765, "height":0.107238}, "confidence":0.989789}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627604, "center_y":0.234667, "width":0.060939, "height":0.122633}, "confidence":0.974014}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/s10 r kill/frame141.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803837, "center_y":0.239501, "width":0.060087, "height":0.108311}, "confidence":0.994469}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746801, "center_y":0.446155, "width":0.071225, "height":0.111578}, "confidence":0.992737}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371693, "center_y":0.208562, "width":0.061001, "height":0.113621}, "confidence":0.991494}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371421, "center_y":0.796691, "width":0.062772, "height":0.117313}, "confidence":0.991328}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252179, "center_y":0.500583, "width":0.056234, "height":0.093055}, "confidence":0.945287}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686788, "center_y":0.657319, "width":0.062345, "height":0.115998}, "confidence":0.996375}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313498, "center_y":0.941042, "width":0.063086, "height":0.104784}, "confidence":0.993871}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.629084, "center_y":0.868415, "width":0.055364, "height":0.122922}, "confidence":0.993752}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/s10 r kill/frame85.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429371, "center_y":0.378951, "width":0.059558, "height":0.106334}, "confidence":0.997052}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429157, "center_y":0.672986, "width":0.061154, "height":0.109640}, "confidence":0.995096}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.750466, "center_y":0.482657, "width":0.055439, "height":0.092575}, "confidence":0.983778}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687763, "center_y":0.897271, "width":0.064799, "height":0.107738}, "confidence":0.997624}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312702, "center_y":0.673215, "width":0.059840, "height":0.112887}, "confidence":0.997484}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686362, "center_y":0.270448, "width":0.062785, "height":0.113616}, "confidence":0.996696}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628435, "center_y":0.690035, "width":0.055853, "height":0.121909}, "confidence":0.994468}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195785, "center_y":0.954571, "width":0.064826, "height":0.087416}, "confidence":0.994192}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/s10 r kill/frame98.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803186, "center_y":0.288072, "width":0.061352, "height":0.111631}, "confidence":0.998401}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428850, "center_y":0.539551, "width":0.063023, "height":0.109036}, "confidence":0.991529}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686707, "center_y":0.707035, "width":0.060831, "height":0.113742}, "confidence":0.996670}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628443, "center_y":0.916777, "width":0.057203, "height":0.117908}, "confidence":0.996692}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254555, "center_y":0.832423, "width":0.060376, "height":0.105937}, "confidence":0.986700}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627155, "center_y":0.495899, "width":0.053882, "height":0.113506}, "confidence":0.977781}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195378, "center_y":0.245357, "width":0.064773, "height":0.104104}, "confidence":0.991007}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/s10 r kill/frame79.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429306, "center_y":0.711269, "width":0.061023, "height":0.111366}, "confidence":0.997069}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803728, "center_y":0.326181, "width":0.060759, "height":0.114288}, "confidence":0.996789}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746901, "center_y":0.533937, "width":0.055666, "height":0.117714}, "confidence":0.991333}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746794, "center_y":0.947538, "width":0.060072, "height":0.108191}, "confidence":0.892718}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312955, "center_y":0.417682, "width":0.054960, "height":0.112984}, "confidence":0.998184}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686713, "center_y":0.744662, "width":0.061906, "height":0.115440}, "confidence":0.997420}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312043, "center_y":0.974497, "width":0.074134, "height":0.053239}, "confidence":0.760545}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/s10 r kill/frame133.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686308, "center_y":0.555089, "width":0.063299, "height":0.322335}, "confidence":0.998433}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804474, "center_y":0.868334, "width":0.065077, "height":0.106923}, "confidence":0.719472}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371392, "center_y":0.651408, "width":0.061942, "height":0.117296}, "confidence":0.990261}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312320, "center_y":0.211717, "width":0.058581, "height":0.106100}, "confidence":0.994787}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253230, "center_y":0.358181, "width":0.059123, "height":0.114236}, "confidence":0.995243}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253377, "center_y":0.947088, "width":0.057661, "height":0.115716}, "confidence":0.933362}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.804111, "center_y":0.866822, "width":0.065213, "height":0.141189}, "confidence":0.705556}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/s10 r kill/frame109.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569533, "center_y":0.885602, "width":0.063933, "height":0.108923}, "confidence":0.781886}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373178, "center_y":0.510436, "width":0.062801, "height":0.098936}, "confidence":0.995696}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686670, "center_y":0.675396, "width":0.061341, "height":0.114777}, "confidence":0.997391}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312220, "center_y":0.809757, "width":0.060448, "height":0.114392}, "confidence":0.994056}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254057, "center_y":0.221463, "width":0.059144, "height":0.121013}, "confidence":0.992868}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627594, "center_y":0.464351, "width":0.060614, "height":0.111043}, "confidence":0.991915}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567839, "center_y":0.257344, "width":0.065845, "height":0.103835}, "confidence":0.950681}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/s10 r kill/frame15.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804312, "center_y":0.573819, "width":0.056388, "height":0.116176}, "confidence":0.987770}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804637, "center_y":0.156333, "width":0.058301, "height":0.107693}, "confidence":0.976187}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196226, "center_y":0.444708, "width":0.063959, "height":0.105427}, "confidence":0.817952}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371657, "center_y":0.738983, "width":0.062369, "height":0.126406}, "confidence":0.994101}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746671, "center_y":0.361301, "width":0.060551, "height":0.109389}, "confidence":0.983860}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686710, "center_y":0.781608, "width":0.060926, "height":0.118920}, "confidence":0.997742}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.803950, "center_y":0.967517, "width":0.060504, "height":0.057644}, "confidence":0.731387}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/s10 r kill/frame14.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803480, "center_y":0.235152, "width":0.060981, "height":0.108822}, "confidence":0.997104}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804236, "center_y":0.652590, "width":0.057587, "height":0.115704}, "confidence":0.991804}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370737, "center_y":0.793990, "width":0.061651, "height":0.119824}, "confidence":0.994193}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747379, "center_y":0.443537, "width":0.063226, "height":0.112558}, "confidence":0.984582}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686859, "center_y":0.860797, "width":0.061539, "height":0.117475}, "confidence":0.997363}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195729, "center_y":0.498825, "width":0.062924, "height":0.109346}, "confidence":0.942692}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/s10 r kill/frame125.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.748765, "center_y":0.765220, "width":0.065915, "height":0.330907}, "confidence":0.994722}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429385, "center_y":0.215843, "width":0.057929, "height":0.108008}, "confidence":0.996924}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.806111, "center_y":0.457461, "width":0.056795, "height":0.116998}, "confidence":0.995134}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745535, "center_y":0.250119, "width":0.059160, "height":0.127108}, "confidence":0.991138}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312149, "center_y":0.656822, "width":0.060093, "height":0.110636}, "confidence":0.996077}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253733, "center_y":0.803215, "width":0.057580, "height":0.118111}, "confidence":0.995138}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251665, "center_y":0.505927, "width":0.058383, "height":0.103483}, "confidence":0.908571}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/s10 r kill/frame119.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804621, "center_y":0.931290, "width":0.062200, "height":0.111123}, "confidence":0.996363}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429130, "center_y":0.551236, "width":0.062119, "height":0.109251}, "confidence":0.995923}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746491, "center_y":0.302660, "width":0.062617, "height":0.112334}, "confidence":0.988708}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745835, "center_y":0.723359, "width":0.062416, "height":0.122256}, "confidence":0.984812}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312463, "center_y":0.252865, "width":0.058207, "height":0.108032}, "confidence":0.996180}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687586, "center_y":0.510063, "width":0.064519, "height":0.101380}, "confidence":0.995690}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313276, "center_y":0.966306, "width":0.063177, "height":0.064935}, "confidence":0.993148}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253845, "center_y":0.843313, "width":0.060477, "height":0.103139}, "confidence":0.987350}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/s10 r kill/frame16.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803622, "center_y":0.493965, "width":0.066100, "height":0.105555}, "confidence":0.992563}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804646, "center_y":0.910100, "width":0.064246, "height":0.105568}, "confidence":0.803056}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370580, "center_y":0.682047, "width":0.061487, "height":0.118210}, "confidence":0.992955}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746032, "center_y":0.285836, "width":0.064180, "height":0.127927}, "confidence":0.990956}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686689, "center_y":0.703322, "width":0.062257, "height":0.114721}, "confidence":0.997504}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253322, "center_y":0.959695, "width":0.058616, "height":0.082099}, "confidence":0.820065}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194367, "center_y":0.388246, "width":0.071088, "height":0.099429}, "confidence":0.993709}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/s10 r kill/frame84.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429133, "center_y":0.728565, "width":0.061788, "height":0.107014}, "confidence":0.994891}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.432621, "center_y":0.444610, "width":0.054923, "height":0.105232}, "confidence":0.966330}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746059, "center_y":0.559625, "width":0.062512, "height":0.124846}, "confidence":0.993944}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686633, "center_y":0.349474, "width":0.063520, "height":0.114553}, "confidence":0.997622}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312347, "center_y":0.729077, "width":0.057905, "height":0.112279}, "confidence":0.996323}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685970, "center_y":0.960062, "width":0.054872, "height":0.087538}, "confidence":0.982737}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628331, "center_y":0.768208, "width":0.061907, "height":0.108847}, "confidence":0.991892}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196050, "center_y":0.982299, "width":0.056785, "height":0.032468}, "confidence":0.933917}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/s10 r kill/frame112.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429382, "center_y":0.924029, "width":0.062893, "height":0.076711}, "confidence":0.993325}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371820, "center_y":0.348253, "width":0.065707, "height":0.110978}, "confidence":0.992180}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746005, "center_y":0.855867, "width":0.062683, "height":0.115241}, "confidence":0.991669}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686638, "center_y":0.435785, "width":0.062454, "height":0.115770}, "confidence":0.998120}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312351, "center_y":0.643512, "width":0.056201, "height":0.113347}, "confidence":0.995723}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628850, "center_y":0.229519, "width":0.056171, "height":0.111188}, "confidence":0.973245}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568415, "center_y":0.647421, "width":0.068951, "height":0.103753}, "confidence":0.995642}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/s10 r kill/frame91.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804177, "center_y":0.842183, "width":0.064125, "height":0.111064}, "confidence":0.997300}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429749, "center_y":0.340065, "width":0.059574, "height":0.107534}, "confidence":0.996870}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430219, "center_y":0.919751, "width":0.064197, "height":0.095262}, "confidence":0.994228}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628738, "center_y":0.211605, "width":0.059250, "height":0.107770}, "confidence":0.785163}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686987, "center_y":0.423996, "width":0.061113, "height":0.115573}, "confidence":0.997358}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312800, "center_y":0.340022, "width":0.056767, "height":0.109549}, "confidence":0.996611}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567787, "center_y":0.634025, "width":0.070430, "height":0.105383}, "confidence":0.997164}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194483, "center_y":0.634279, "width":0.062389, "height":0.105085}, "confidence":0.990226}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/s10 r kill/frame27.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805186, "center_y":0.463228, "width":0.059101, "height":0.111384}, "confidence":0.992628}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804190, "center_y":0.878208, "width":0.062684, "height":0.109222}, "confidence":0.908847}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312267, "center_y":0.659536, "width":0.060373, "height":0.107336}, "confidence":0.998099}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686590, "center_y":0.670469, "width":0.062318, "height":0.116594}, "confidence":0.997069}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253748, "center_y":0.364014, "width":0.061227, "height":0.113786}, "confidence":0.995907}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628108, "center_y":0.251014, "width":0.058374, "height":0.122105}, "confidence":0.993762}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195407, "center_y":0.948167, "width":0.065487, "height":0.097489}, "confidence":0.990828}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/s10 r kill/frame54.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371163, "center_y":0.631117, "width":0.064357, "height":0.125094}, "confidence":0.991508}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685960, "center_y":0.838708, "width":0.059665, "height":0.113813}, "confidence":0.997780}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253430, "center_y":0.335753, "width":0.060872, "height":0.118258}, "confidence":0.996101}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628425, "center_y":0.629339, "width":0.060116, "height":0.124760}, "confidence":0.992132}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253058, "center_y":0.924962, "width":0.066267, "height":0.125356}, "confidence":0.985990}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568123, "center_y":0.420015, "width":0.067555, "height":0.100544}, "confidence":0.993589}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/s10 r kill/frame93.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804411, "center_y":0.684890, "width":0.062050, "height":0.116671}, "confidence":0.997164}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429266, "center_y":0.816955, "width":0.064146, "height":0.110026}, "confidence":0.995566}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685799, "center_y":0.266479, "width":0.056264, "height":0.111760}, "confidence":0.997782}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313345, "center_y":0.228637, "width":0.062813, "height":0.106341}, "confidence":0.995561}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628020, "center_y":0.894930, "width":0.060706, "height":0.122961}, "confidence":0.994037}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567143, "center_y":0.477603, "width":0.069252, "height":0.102819}, "confidence":0.996776}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195424, "center_y":0.522202, "width":0.063136, "height":0.104890}, "confidence":0.981004}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/s10 r kill/frame55.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370959, "center_y":0.574635, "width":0.063363, "height":0.121917}, "confidence":0.991899}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686323, "center_y":0.759595, "width":0.059720, "height":0.115675}, "confidence":0.997295}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253357, "center_y":0.280235, "width":0.062891, "height":0.123506}, "confidence":0.996942}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253987, "center_y":0.868567, "width":0.059228, "height":0.104256}, "confidence":0.978122}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628475, "center_y":0.957443, "width":0.054706, "height":0.089259}, "confidence":0.735895}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568530, "center_y":0.340523, "width":0.068105, "height":0.099289}, "confidence":0.994146}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/s10 r kill/frame113.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428967, "center_y":0.881882, "width":0.058429, "height":0.115557}, "confidence":0.994951}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370737, "center_y":0.293907, "width":0.062805, "height":0.120724}, "confidence":0.991737}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744575, "center_y":0.779065, "width":0.064748, "height":0.128825}, "confidence":0.990844}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686631, "center_y":0.357810, "width":0.061975, "height":0.111154}, "confidence":0.997925}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312535, "center_y":0.590847, "width":0.060105, "height":0.105585}, "confidence":0.996705}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687003, "center_y":0.965210, "width":0.060151, "height":0.064793}, "confidence":0.977318}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567658, "center_y":0.568801, "width":0.068989, "height":0.097841}, "confidence":0.998539}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/s10 r kill/frame82.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428908, "center_y":0.547013, "width":0.064008, "height":0.107902}, "confidence":0.998029}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429328, "center_y":0.837873, "width":0.065956, "height":0.107306}, "confidence":0.994689}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746296, "center_y":0.716187, "width":0.062273, "height":0.116105}, "confidence":0.989462}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746988, "center_y":0.297946, "width":0.061296, "height":0.110077}, "confidence":0.989402}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312441, "center_y":0.839503, "width":0.057736, "height":0.112508}, "confidence":0.997051}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312583, "center_y":0.250814, "width":0.058649, "height":0.109826}, "confidence":0.996190}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687328, "center_y":0.507935, "width":0.065240, "height":0.099505}, "confidence":0.993215}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627594, "center_y":0.926403, "width":0.061893, "height":0.121554}, "confidence":0.982834}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/s10 r kill/frame97.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429467, "center_y":0.595870, "width":0.061731, "height":0.110206}, "confidence":0.996607}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804398, "center_y":0.367985, "width":0.062694, "height":0.114415}, "confidence":0.995705}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686649, "center_y":0.787010, "width":0.060086, "height":0.115611}, "confidence":0.997642}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253884, "center_y":0.888433, "width":0.064934, "height":0.131064}, "confidence":0.990174}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628115, "center_y":0.579929, "width":0.060469, "height":0.099385}, "confidence":0.975035}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194836, "center_y":0.299623, "width":0.059227, "height":0.103260}, "confidence":0.989002}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/s10 r kill/frame42.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686499, "center_y":0.634669, "width":0.067296, "height":0.311771}, "confidence":0.998915}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373887, "center_y":0.406602, "width":0.053925, "height":0.099878}, "confidence":0.993118}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371457, "center_y":0.708241, "width":0.061817, "height":0.117787}, "confidence":0.988346}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312822, "center_y":0.565235, "width":0.055792, "height":0.103234}, "confidence":0.997389}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568472, "center_y":0.322203, "width":0.068988, "height":0.105062}, "confidence":0.997386}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/s10 r kill/frame74.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804650, "center_y":0.720687, "width":0.061627, "height":0.114666}, "confidence":0.997904}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745203, "center_y":0.931450, "width":0.063353, "height":0.125849}, "confidence":0.990458}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373994, "center_y":0.391758, "width":0.058022, "height":0.091313}, "confidence":0.989620}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747590, "center_y":0.505250, "width":0.057551, "height":0.098937}, "confidence":0.987325}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312089, "center_y":0.695310, "width":0.060267, "height":0.113260}, "confidence":0.996774}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/s10 r kill/frame68.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806797, "center_y":0.258741, "width":0.056778, "height":0.316052}, "confidence":0.997272}, 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.745863, "center_y":0.965423, "width":0.064224, "height":0.081365}, "confidence":0.747824}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686473, "center_y":0.671838, "width":0.069806, "height":0.312870}, "confidence":0.999006}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371428, "center_y":0.735742, "width":0.062619, "height":0.126857}, "confidence":0.991764}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313549, "center_y":0.293325, "width":0.061880, "height":0.108848}, "confidence":0.994738}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252753, "center_y":0.439919, "width":0.062917, "height":0.113623}, "confidence":0.986049}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254233, "center_y":0.142203, "width":0.057887, "height":0.112559}, "confidence":0.841525}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/s10 r kill/frame6.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429161, "center_y":0.650794, "width":0.061135, "height":0.109268}, "confidence":0.995076}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804260, "center_y":0.865806, "width":0.062984, "height":0.113677}, "confidence":0.991458}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194918, "center_y":0.944532, "width":0.061701, "height":0.102336}, "confidence":0.977077}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/s10 r kill/frame144.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.568152, "center_y":0.890079, "width":0.066667, "height":0.225683}, "confidence":0.995645}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372028, "center_y":0.629918, "width":0.061885, "height":0.117278}, "confidence":0.991846}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371702, "center_y":0.924059, "width":0.062249, "height":0.115341}, "confidence":0.990858}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746849, "center_y":0.211862, "width":0.061652, "height":0.115894}, "confidence":0.985946}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686507, "center_y":0.420549, "width":0.056015, "height":0.115866}, "confidence":0.997530}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311983, "center_y":0.777400, "width":0.060347, "height":0.110430}, "confidence":0.996843}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253603, "center_y":0.336243, "width":0.059185, "height":0.116952}, "confidence":0.994074}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628024, "center_y":0.629668, "width":0.060425, "height":0.122733}, "confidence":0.992412}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/s10 r kill/frame4.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.805678, "center_y":0.329487, "width":0.053902, "height":0.247460}, "confidence":0.875469}, 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.567535, "center_y":0.323402, "width":0.065513, "height":0.237455}, "confidence":0.992734}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429772, "center_y":0.761662, "width":0.061581, "height":0.108053}, "confidence":0.997317}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803736, "center_y":0.984053, "width":0.059901, "height":0.030931}, "confidence":0.860900}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/s10 r kill/frame105.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430409, "center_y":0.148437, "width":0.064002, "height":0.111545}, "confidence":0.994863}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371595, "center_y":0.737968, "width":0.062723, "height":0.118184}, "confidence":0.989136}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687606, "center_y":0.967915, "width":0.059824, "height":0.061121}, "confidence":0.989021}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628356, "center_y":0.362408, "width":0.057942, "height":0.112477}, "confidence":0.995107}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628417, "center_y":0.784370, "width":0.056046, "height":0.123365}, "confidence":0.993595}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254058, "center_y":0.441302, "width":0.061172, "height":0.110509}, "confidence":0.988769}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567917, "center_y":0.573915, "width":0.066578, "height":0.100561}, "confidence":0.996469}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/s10 r kill/frame76.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804529, "center_y":0.563971, "width":0.058184, "height":0.116658}, "confidence":0.991855}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429647, "center_y":0.876877, "width":0.067157, "height":0.110613}, "confidence":0.991511}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370952, "center_y":0.290266, "width":0.060484, "height":0.124277}, "confidence":0.994494}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746575, "center_y":0.350074, "width":0.060716, "height":0.108510}, "confidence":0.988038}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745899, "center_y":0.773064, "width":0.061968, "height":0.118357}, "confidence":0.982391}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312484, "center_y":0.589118, "width":0.059716, "height":0.110171}, "confidence":0.998088}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687557, "center_y":0.963628, "width":0.061297, "height":0.069979}, "confidence":0.990003}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/s10 r kill/frame96.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428988, "center_y":0.651419, "width":0.060454, "height":0.109406}, "confidence":0.997107}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.806233, "center_y":0.448467, "width":0.059029, "height":0.111519}, "confidence":0.995889}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687163, "center_y":0.865590, "width":0.060109, "height":0.114874}, "confidence":0.997418}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627297, "center_y":0.657565, "width":0.062625, "height":0.124717}, "confidence":0.995002}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253952, "center_y":0.942699, "width":0.061640, "height":0.118371}, "confidence":0.982558}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568054, "center_y":0.239830, "width":0.070342, "height":0.104278}, "confidence":0.997105}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194544, "center_y":0.357447, "width":0.066697, "height":0.100400}, "confidence":0.995598}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/s10 r kill/frame49.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.629348, "center_y":0.504756, "width":0.062299, "height":0.332821}, "confidence":0.979285}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371664, "center_y":0.318580, "width":0.061451, "height":0.114531}, "confidence":0.994732}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371096, "center_y":0.906354, "width":0.062402, "height":0.114161}, "confidence":0.992703}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253937, "center_y":0.612960, "width":0.061945, "height":0.101607}, "confidence":0.989136}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569068, "center_y":0.814539, "width":0.064620, "height":0.125931}, "confidence":0.706537}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/s10 r kill/frame83.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429350, "center_y":0.492368, "width":0.060834, "height":0.108779}, "confidence":0.996049}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428967, "center_y":0.782737, "width":0.065269, "height":0.108964}, "confidence":0.983400}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746959, "center_y":0.217872, "width":0.060310, "height":0.110070}, "confidence":0.989642}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746071, "center_y":0.637751, "width":0.063073, "height":0.115637}, "confidence":0.986904}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686338, "center_y":0.426464, "width":0.061940, "height":0.115478}, "confidence":0.998413}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312026, "center_y":0.196624, "width":0.061932, "height":0.106816}, "confidence":0.997682}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312329, "center_y":0.784039, "width":0.059091, "height":0.113903}, "confidence":0.997533}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627440, "center_y":0.848797, "width":0.063481, "height":0.127000}, "confidence":0.994552}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/s10 r kill/frame65.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806978, "center_y":0.495118, "width":0.057788, "height":0.308678}, "confidence":0.993623}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687154, "center_y":0.872749, "width":0.067143, "height":0.243338}, "confidence":0.997441}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371415, "center_y":0.899943, "width":0.061349, "height":0.115276}, "confidence":0.991205}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312502, "center_y":0.457301, "width":0.056746, "height":0.099291}, "confidence":0.989904}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252784, "center_y":0.313456, "width":0.063961, "height":0.122401}, "confidence":0.996710}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253387, "center_y":0.607574, "width":0.060986, "height":0.103273}, "confidence":0.991543}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.629321, "center_y":0.178678, "width":0.058729, "height":0.118000}, "confidence":0.929142}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/s10 r kill/frame145.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.567504, "center_y":0.849241, "width":0.066533, "height":0.289816}, "confidence":0.997119}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371831, "center_y":0.868608, "width":0.066789, "height":0.112833}, "confidence":0.992896}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371834, "center_y":0.577199, "width":0.060952, "height":0.115873}, "confidence":0.989121}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685704, "center_y":0.338206, "width":0.058415, "height":0.109158}, "confidence":0.997073}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313282, "center_y":0.722556, "width":0.064480, "height":0.107360}, "confidence":0.995931}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253654, "center_y":0.280760, "width":0.062917, "height":0.116806}, "confidence":0.996201}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.621313, "center_y":0.543607, "width":0.044478, "height":0.088980}, "confidence":0.865349}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/s10 r kill/frame64.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.807014, "center_y":0.571464, "width":0.057397, "height":0.304482}, "confidence":0.992047}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686791, "center_y":0.912553, "width":0.062508, "height":0.178271}, "confidence":0.978879}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371597, "center_y":0.948658, "width":0.065234, "height":0.100102}, "confidence":0.973094}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312842, "center_y":0.514132, "width":0.059250, "height":0.102920}, "confidence":0.815519}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627856, "center_y":0.256637, "width":0.056956, "height":0.120240}, "confidence":0.997230}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252923, "center_y":0.663264, "width":0.063730, "height":0.123689}, "confidence":0.996790}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253303, "center_y":0.365296, "width":0.061704, "height":0.111566}, "confidence":0.993708}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/s10 r kill/frame38.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687007, "center_y":0.893081, "width":0.065759, "height":0.215194}, "confidence":0.993501}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372163, "center_y":0.636626, "width":0.065162, "height":0.113902}, "confidence":0.991815}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371372, "center_y":0.930625, "width":0.062059, "height":0.125580}, "confidence":0.986397}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.749265, "center_y":0.421610, "width":0.055640, "height":0.111235}, "confidence":0.978011}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313201, "center_y":0.783602, "width":0.065453, "height":0.109687}, "confidence":0.996777}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567414, "center_y":0.222754, "width":0.068490, "height":0.099804}, "confidence":0.995603}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194786, "center_y":0.343513, "width":0.062234, "height":0.108390}, "confidence":0.989501}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567458, "center_y":0.638796, "width":0.069691, "height":0.106881}, "confidence":0.978444}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/s10 r kill/frame115.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428939, "center_y":0.770309, "width":0.061957, "height":0.111453}, "confidence":0.993002}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744642, "center_y":0.620498, "width":0.066251, "height":0.128869}, "confidence":0.996139}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372012, "center_y":0.181433, "width":0.063505, "height":0.116832}, "confidence":0.994690}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312452, "center_y":0.474006, "width":0.059423, "height":0.104531}, "confidence":0.998459}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686828, "center_y":0.827331, "width":0.062097, "height":0.118629}, "confidence":0.997744}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686176, "center_y":0.201392, "width":0.060147, "height":0.112170}, "confidence":0.996410}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567707, "center_y":0.410967, "width":0.066696, "height":0.102842}, "confidence":0.994806}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/s10 r kill/frame72.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686692, "center_y":0.352597, "width":0.067473, "height":0.306776}, "confidence":0.998742}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804118, "center_y":0.879686, "width":0.061044, "height":0.110860}, "confidence":0.997693}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371165, "center_y":0.507962, "width":0.063207, "height":0.118593}, "confidence":0.997278}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747132, "center_y":0.672874, "width":0.059832, "height":0.118316}, "confidence":0.944713}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313002, "center_y":0.805719, "width":0.065211, "height":0.108001}, "confidence":0.994962}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254634, "center_y":0.224200, "width":0.056395, "height":0.089497}, "confidence":0.983742}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/s10 r kill/frame21.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804266, "center_y":0.518581, "width":0.059550, "height":0.112633}, "confidence":0.993954}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804319, "center_y":0.934452, "width":0.064917, "height":0.104104}, "confidence":0.990127}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.374171, "center_y":0.394596, "width":0.056093, "height":0.091789}, "confidence":0.994546}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686145, "center_y":0.306922, "width":0.055725, "height":0.109926}, "confidence":0.994474}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312786, "center_y":0.967319, "width":0.060649, "height":0.061480}, "confidence":0.993170}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252925, "center_y":0.700282, "width":0.063564, "height":0.124822}, "confidence":0.995829}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628740, "center_y":0.727516, "width":0.055241, "height":0.121829}, "confidence":0.993366}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/s10 r kill/frame8.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804328, "center_y":0.709342, "width":0.061690, "height":0.112186}, "confidence":0.996835}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428920, "center_y":0.536825, "width":0.065235, "height":0.110558}, "confidence":0.988770}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196479, "center_y":0.832475, "width":0.063875, "height":0.102928}, "confidence":0.983851}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746392, "center_y":0.917518, "width":0.062727, "height":0.115349}, "confidence":0.991489}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/s10 r kill/frame61.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.805575, "center_y":0.803827, "width":0.054405, "height":0.305297}, "confidence":0.967343}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371504, "center_y":0.242042, "width":0.064596, "height":0.126381}, "confidence":0.995271}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686318, "center_y":0.282870, "width":0.059871, "height":0.113035}, "confidence":0.998389}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312376, "center_y":0.682955, "width":0.057083, "height":0.115637}, "confidence":0.996599}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253934, "center_y":0.830671, "width":0.061708, "height":0.125103}, "confidence":0.993369}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625886, "center_y":0.492464, "width":0.052973, "height":0.108295}, "confidence":0.925636}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/s10 r kill/frame132.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686481, "center_y":0.637011, "width":0.068384, "height":0.315372}, "confidence":0.998278}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371500, "center_y":0.708494, "width":0.062528, "height":0.118293}, "confidence":0.987607}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313007, "center_y":0.267032, "width":0.063501, "height":0.107774}, "confidence":0.994541}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251528, "center_y":0.406616, "width":0.053784, "height":0.101974}, "confidence":0.992418}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/s10 r kill/frame25.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804163, "center_y":0.619547, "width":0.060015, "height":0.115373}, "confidence":0.995357}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804365, "center_y":0.202057, "width":0.060245, "height":0.103184}, "confidence":0.992299}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372032, "center_y":0.181520, "width":0.059358, "height":0.118369}, "confidence":0.995990}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686941, "center_y":0.827656, "width":0.061955, "height":0.120091}, "confidence":0.998239}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312200, "center_y":0.771096, "width":0.059541, "height":0.111348}, "confidence":0.996689}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252721, "center_y":0.479823, "width":0.058207, "height":0.098183}, "confidence":0.994575}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626785, "center_y":0.389182, "width":0.054477, "height":0.062718}, "confidence":0.993545}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/s10 r kill/frame111.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.374444, "center_y":0.398091, "width":0.057814, "height":0.096153}, "confidence":0.993616}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746444, "center_y":0.933375, "width":0.062521, "height":0.110641}, "confidence":0.990989}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687223, "center_y":0.517441, "width":0.058888, "height":0.114508}, "confidence":0.996675}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312448, "center_y":0.699133, "width":0.058549, "height":0.111155}, "confidence":0.995937}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628236, "center_y":0.306962, "width":0.060265, "height":0.106626}, "confidence":0.990469}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568656, "center_y":0.727136, "width":0.070202, "height":0.102696}, "confidence":0.996332}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/s10 r kill/frame95.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429425, "center_y":0.706544, "width":0.061235, "height":0.110458}, "confidence":0.996779}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804769, "center_y":0.528228, "width":0.060993, "height":0.115736}, "confidence":0.994727}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687040, "center_y":0.942424, "width":0.059624, "height":0.114059}, "confidence":0.995362}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628932, "center_y":0.736236, "width":0.060606, "height":0.105337}, "confidence":0.961743}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567706, "center_y":0.319081, "width":0.067513, "height":0.101972}, "confidence":0.995045}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/s10 r kill/frame136.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686316, "center_y":0.318158, "width":0.065014, "height":0.306511}, "confidence":0.998631}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804389, "center_y":0.633386, "width":0.060826, "height":0.115176}, "confidence":0.997063}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372766, "center_y":0.484755, "width":0.061720, "height":0.096341}, "confidence":0.993187}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745357, "center_y":0.843401, "width":0.063532, "height":0.123470}, "confidence":0.988766}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253257, "center_y":0.783805, "width":0.060546, "height":0.123746}, "confidence":0.985010}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/s10 r kill/frame26.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804531, "center_y":0.540864, "width":0.059515, "height":0.115195}, "confidence":0.992534}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804794, "center_y":0.950686, "width":0.064289, "height":0.091509}, "confidence":0.899477}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686762, "center_y":0.750246, "width":0.061760, "height":0.116987}, "confidence":0.996949}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312961, "center_y":0.715476, "width":0.055044, "height":0.112752}, "confidence":0.996407}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628208, "center_y":0.329983, "width":0.058084, "height":0.117266}, "confidence":0.997716}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252955, "center_y":0.416898, "width":0.057470, "height":0.111659}, "confidence":0.996091}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195363, "center_y":0.975600, "width":0.059945, "height":0.046563}, "confidence":0.961407}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/s10 r kill/frame88.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429209, "center_y":0.213577, "width":0.058962, "height":0.104956}, "confidence":0.996599}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428996, "center_y":0.506947, "width":0.063831, "height":0.107452}, "confidence":0.993822}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746451, "center_y":0.241893, "width":0.061258, "height":0.113713}, "confidence":0.994667}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686489, "center_y":0.661994, "width":0.063314, "height":0.117201}, "confidence":0.997862}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312201, "center_y":0.508499, "width":0.061885, "height":0.105860}, "confidence":0.997495}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628464, "center_y":0.448126, "width":0.057447, "height":0.116582}, "confidence":0.995885}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194737, "center_y":0.799110, "width":0.063237, "height":0.108702}, "confidence":0.990659}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567922, "center_y":0.870773, "width":0.067722, "height":0.105053}, "confidence":0.988995}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data/s10 r kill/frame146.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.567408, "center_y":0.783938, "width":0.067093, "height":0.329200}, "confidence":0.998828}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373025, "center_y":0.512354, "width":0.061652, "height":0.097025}, "confidence":0.996041}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372050, "center_y":0.811856, "width":0.067108, "height":0.115136}, "confidence":0.992023}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685544, "center_y":0.260483, "width":0.058387, "height":0.111657}, "confidence":0.997504}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312267, "center_y":0.665137, "width":0.058174, "height":0.112150}, "confidence":0.996350}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253594, "center_y":0.224068, "width":0.059497, "height":0.117318}, "confidence":0.994681}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628084, "center_y":0.469105, "width":0.057511, "height":0.090241}, "confidence":0.992093}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data/s10 r kill/frame106.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371628, "center_y":0.682054, "width":0.062992, "height":0.117004}, "confidence":0.990887}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686421, "center_y":0.911625, "width":0.058088, "height":0.112574}, "confidence":0.998017}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312727, "center_y":0.959433, "width":0.062142, "height":0.081313}, "confidence":0.991917}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628127, "center_y":0.284835, "width":0.058406, "height":0.117996}, "confidence":0.997797}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628176, "center_y":0.704588, "width":0.059529, "height":0.122796}, "confidence":0.994274}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252415, "center_y":0.387418, "width":0.056321, "height":0.096804}, "confidence":0.981506}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568538, "center_y":0.495391, "width":0.067225, "height":0.099441}, "confidence":0.997347}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data/s10 r kill/frame128.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.746342, "center_y":0.532401, "width":0.064075, "height":0.330501}, "confidence":0.993856}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686891, "center_y":0.894838, "width":0.065767, "height":0.212594}, "confidence":0.996065}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804822, "center_y":0.221307, "width":0.060299, "height":0.106233}, "confidence":0.972289}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370899, "center_y":0.930657, "width":0.063807, "height":0.127691}, "confidence":0.995061}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312593, "center_y":0.485466, "width":0.062150, "height":0.104934}, "confidence":0.995952}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253447, "center_y":0.340958, "width":0.057825, "height":0.114202}, "confidence":0.996289}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253559, "center_y":0.636044, "width":0.060555, "height":0.121009}, "confidence":0.994976}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data/s10 r kill/frame138.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804829, "center_y":0.481301, "width":0.060848, "height":0.107315}, "confidence":0.977816}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371345, "center_y":0.953400, "width":0.062518, "height":0.094713}, "confidence":0.992940}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371125, "center_y":0.368416, "width":0.061570, "height":0.103558}, "confidence":0.986425}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745754, "center_y":0.685881, "width":0.061522, "height":0.128574}, "confidence":0.984388}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686909, "center_y":0.893595, "width":0.062976, "height":0.115524}, "confidence":0.997683}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253222, "center_y":0.671623, "width":0.060109, "height":0.123501}, "confidence":0.957238}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data/s10 r kill/frame89.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.431487, "center_y":0.453447, "width":0.054156, "height":0.107281}, "confidence":0.997101}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430990, "center_y":0.159263, "width":0.056434, "height":0.111948}, "confidence":0.983727}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686227, "center_y":0.586366, "width":0.061614, "height":0.111315}, "confidence":0.997758}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312088, "center_y":0.449891, "width":0.055301, "height":0.108580}, "confidence":0.997044}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628132, "center_y":0.368402, "width":0.055781, "height":0.108016}, "confidence":0.992941}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567641, "center_y":0.793670, "width":0.069161, "height":0.103284}, "confidence":0.995516}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194495, "center_y":0.745007, "width":0.063896, "height":0.103128}, "confidence":0.991075}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data/s10 r kill/frame10.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196456, "center_y":0.721143, "width":0.061816, "height":0.109005}, "confidence":0.990692}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805107, "center_y":0.551004, "width":0.057303, "height":0.107731}, "confidence":0.989621}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804623, "center_y":0.956778, "width":0.057874, "height":0.088840}, "confidence":0.965705}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429281, "center_y":0.426386, "width":0.064401, "height":0.107966}, "confidence":0.909875}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746346, "center_y":0.758920, "width":0.062795, "height":0.114180}, "confidence":0.991344}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data/s10 r kill/frame118.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429248, "center_y":0.604982, "width":0.060449, "height":0.111619}, "confidence":0.994075}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746387, "center_y":0.372634, "width":0.062343, "height":0.094085}, "confidence":0.988252}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746536, "center_y":0.800041, "width":0.062572, "height":0.115648}, "confidence":0.976024}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686369, "center_y":0.591141, "width":0.061802, "height":0.117919}, "confidence":0.997363}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311819, "center_y":0.310427, "width":0.060869, "height":0.107508}, "confidence":0.996801}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253875, "center_y":0.899377, "width":0.061889, "height":0.103763}, "confidence":0.710330}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567125, "center_y":0.179862, "width":0.064987, "height":0.090091}, "confidence":0.996406}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.803966, "center_y":0.977139, "width":0.063386, "height":0.043633}, "confidence":0.802464}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data/s10 r kill/frame127.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.746772, "center_y":0.610140, "width":0.063810, "height":0.338586}, "confidence":0.995511}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804109, "center_y":0.298798, "width":0.063356, "height":0.116354}, "confidence":0.997499}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372006, "center_y":0.964501, "width":0.058980, "height":0.067333}, "confidence":0.762099}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253892, "center_y":0.691137, "width":0.060086, "height":0.104459}, "confidence":0.989085}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251960, "center_y":0.390831, "width":0.055397, "height":0.083800}, "confidence":0.987406}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data/s10 r kill/frame39.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687476, "center_y":0.854216, "width":0.067802, "height":0.279644}, "confidence":0.998823}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372443, "center_y":0.581587, "width":0.066405, "height":0.113787}, "confidence":0.994813}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371870, "center_y":0.874703, "width":0.062039, "height":0.115824}, "confidence":0.993386}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746637, "center_y":0.342098, "width":0.060944, "height":0.099753}, "confidence":0.981510}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313072, "center_y":0.728432, "width":0.064654, "height":0.109724}, "confidence":0.995103}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195706, "center_y":0.287963, "width":0.065180, "height":0.104670}, "confidence":0.991351}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567826, "center_y":0.561556, "width":0.067540, "height":0.106467}, "confidence":0.913468}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data/s10 r kill/frame114.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429231, "center_y":0.827493, "width":0.059043, "height":0.116302}, "confidence":0.994552}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371271, "center_y":0.239508, "width":0.064924, "height":0.125261}, "confidence":0.995344}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744579, "center_y":0.700383, "width":0.065048, "height":0.125432}, "confidence":0.989422}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686358, "center_y":0.279611, "width":0.061856, "height":0.111298}, "confidence":0.997893}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686903, "center_y":0.906551, "width":0.060123, "height":0.111761}, "confidence":0.997408}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311426, "center_y":0.545206, "width":0.051076, "height":0.082205}, "confidence":0.912266}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568106, "center_y":0.492704, "width":0.069502, "height":0.094569}, "confidence":0.997805}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data/s10 r kill/frame31.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803981, "center_y":0.564158, "width":0.060313, "height":0.116757}, "confidence":0.993361}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311904, "center_y":0.435326, "width":0.060844, "height":0.109276}, "confidence":0.998545}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686490, "center_y":0.354115, "width":0.063490, "height":0.113809}, "confidence":0.997608}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568494, "center_y":0.773687, "width":0.069285, "height":0.107855}, "confidence":0.987556}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194839, "center_y":0.731824, "width":0.065308, "height":0.096485}, "confidence":0.983100}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data/s10 r kill/frame77.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804052, "center_y":0.486409, "width":0.061539, "height":0.109963}, "confidence":0.997097}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429172, "center_y":0.824724, "width":0.061152, "height":0.113961}, "confidence":0.993875}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371203, "center_y":0.235761, "width":0.064647, "height":0.126502}, "confidence":0.995250}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745102, "center_y":0.695566, "width":0.066006, "height":0.127064}, "confidence":0.993482}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744942, "center_y":0.276991, "width":0.064904, "height":0.126917}, "confidence":0.993059}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686862, "center_y":0.902780, "width":0.062727, "height":0.114828}, "confidence":0.997409}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313451, "center_y":0.533619, "width":0.062726, "height":0.097942}, "confidence":0.962688}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data/s10 r kill/frame80.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429014, "center_y":0.656635, "width":0.063201, "height":0.109516}, "confidence":0.997662}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803701, "center_y":0.248617, "width":0.061772, "height":0.111083}, "confidence":0.995935}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747398, "center_y":0.457341, "width":0.061275, "height":0.115259}, "confidence":0.978404}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746579, "center_y":0.875665, "width":0.061813, "height":0.116010}, "confidence":0.965479}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312243, "center_y":0.946449, "width":0.057355, "height":0.107408}, "confidence":0.997010}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312631, "center_y":0.362953, "width":0.057796, "height":0.110107}, "confidence":0.996908}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686580, "center_y":0.667430, "width":0.061617, "height":0.116768}, "confidence":0.996579}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data/s10 r kill/frame34.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804201, "center_y":0.326729, "width":0.061438, "height":0.112896}, "confidence":0.996235}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371319, "center_y":0.857046, "width":0.062980, "height":0.117505}, "confidence":0.993052}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745662, "center_y":0.746229, "width":0.064244, "height":0.122957}, "confidence":0.974708}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311922, "center_y":0.270815, "width":0.061481, "height":0.111390}, "confidence":0.996243}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687469, "center_y":0.114403, "width":0.060053, "height":0.099812}, "confidence":0.982908}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312602, "center_y":0.975116, "width":0.061969, "height":0.048456}, "confidence":0.959598}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195580, "center_y":0.565199, "width":0.064825, "height":0.103540}, "confidence":0.982390}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568449, "center_y":0.536043, "width":0.065870, "height":0.099644}, "confidence":0.949956}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data/s10 r kill/frame134.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687404, "center_y":0.469737, "width":0.062592, "height":0.329286}, "confidence":0.979595}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804132, "center_y":0.790206, "width":0.064578, "height":0.106829}, "confidence":0.971265}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371829, "center_y":0.599105, "width":0.062061, "height":0.123418}, "confidence":0.994754}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253385, "center_y":0.303111, "width":0.058388, "height":0.116028}, "confidence":0.995035}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254615, "center_y":0.891793, "width":0.060497, "height":0.106446}, "confidence":0.983545}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data/s10 r kill/frame135.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687328, "center_y":0.395490, "width":0.065376, "height":0.322698}, "confidence":0.998656}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804514, "center_y":0.711901, "width":0.061902, "height":0.114218}, "confidence":0.996289}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.375654, "center_y":0.536520, "width":0.057225, "height":0.101840}, "confidence":0.990687}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745066, "center_y":0.924559, "width":0.064499, "height":0.127900}, "confidence":0.943613}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.254077, "center_y":0.836506, "width":0.063413, "height":0.110312}, "confidence":0.802237}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253598, "center_y":0.249556, "width":0.062620, "height":0.118310}, "confidence":0.997714}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data/s10 r kill/frame17.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804960, "center_y":0.416091, "width":0.060827, "height":0.113940}, "confidence":0.997531}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804244, "center_y":0.832950, "width":0.064617, "height":0.115359}, "confidence":0.990394}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371717, "center_y":0.627939, "width":0.061352, "height":0.127439}, "confidence":0.994439}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747117, "center_y":0.205756, "width":0.062488, "height":0.109216}, "confidence":0.992849}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686470, "center_y":0.627216, "width":0.061577, "height":0.110303}, "confidence":0.997621}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253706, "center_y":0.921317, "width":0.056493, "height":0.116903}, "confidence":0.991557}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195643, "center_y":0.333370, "width":0.062096, "height":0.105257}, "confidence":0.993260}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data/s10 r kill/frame142.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804673, "center_y":0.159417, "width":0.061200, "height":0.104531}, "confidence":0.847424}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371832, "center_y":0.739900, "width":0.062056, "height":0.114863}, "confidence":0.990092}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745973, "center_y":0.365793, "width":0.062021, "height":0.108831}, "confidence":0.982743}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685711, "center_y":0.579313, "width":0.061287, "height":0.113115}, "confidence":0.997247}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312156, "center_y":0.887864, "width":0.060288, "height":0.116530}, "confidence":0.995178}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628037, "center_y":0.788519, "width":0.057688, "height":0.124821}, "confidence":0.996426}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253896, "center_y":0.444074, "width":0.061205, "height":0.110563}, "confidence":0.979893}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data/s10 r kill/frame48.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.627735, "center_y":0.590238, "width":0.061437, "height":0.298695}, "confidence":0.996307}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569730, "center_y":0.894450, "width":0.060966, "height":0.110035}, "confidence":0.905538}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372114, "center_y":0.369263, "width":0.061388, "height":0.104478}, "confidence":0.992864}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371938, "center_y":0.953457, "width":0.063858, "height":0.093755}, "confidence":0.991586}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313268, "center_y":0.228826, "width":0.063251, "height":0.106961}, "confidence":0.995163}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253706, "center_y":0.670993, "width":0.062967, "height":0.120667}, "confidence":0.992791}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data/s10 r kill/frame18.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804004, "center_y":0.337021, "width":0.063748, "height":0.113978}, "confidence":0.997364}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804341, "center_y":0.753202, "width":0.064762, "height":0.115991}, "confidence":0.988574}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371438, "center_y":0.571930, "width":0.061277, "height":0.127720}, "confidence":0.996040}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253975, "center_y":0.866540, "width":0.063526, "height":0.124134}, "confidence":0.994441}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.629600, "center_y":0.955549, "width":0.056203, "height":0.093859}, "confidence":0.982166}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195197, "center_y":0.278952, "width":0.066084, "height":0.101854}, "confidence":0.991485}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data/s10 r kill/frame90.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429885, "center_y":0.396685, "width":0.060454, "height":0.113696}, "confidence":0.996745}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804416, "center_y":0.921024, "width":0.059977, "height":0.107561}, "confidence":0.993324}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312169, "center_y":0.398012, "width":0.061082, "height":0.113841}, "confidence":0.996680}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687461, "center_y":0.501315, "width":0.064532, "height":0.098565}, "confidence":0.987946}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628296, "center_y":0.293892, "width":0.056101, "height":0.119061}, "confidence":0.997007}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567626, "center_y":0.712838, "width":0.069811, "height":0.104086}, "confidence":0.996774}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195840, "center_y":0.688639, "width":0.059549, "height":0.115348}, "confidence":0.980585}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data/s10 r kill/frame36.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746579, "center_y":0.588482, "width":0.062867, "height":0.111794}, "confidence":0.991465}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371910, "center_y":0.747304, "width":0.061196, "height":0.118298}, "confidence":0.988279}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312097, "center_y":0.894800, "width":0.060143, "height":0.116311}, "confidence":0.997694}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686468, "center_y":0.975496, "width":0.061261, "height":0.047350}, "confidence":0.986222}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568470, "center_y":0.378034, "width":0.069930, "height":0.100533}, "confidence":0.991745}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.192185, "center_y":0.454505, "width":0.053270, "height":0.101268}, "confidence":0.990200}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data/s10 r kill/frame67.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806494, "center_y":0.335782, "width":0.056402, "height":0.316760}, "confidence":0.997520}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686464, "center_y":0.746916, "width":0.070060, "height":0.310427}, "confidence":0.999025}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371528, "center_y":0.790196, "width":0.062168, "height":0.117299}, "confidence":0.991708}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312239, "center_y":0.348889, "width":0.061174, "height":0.108505}, "confidence":0.996318}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252886, "center_y":0.202553, "width":0.062087, "height":0.117993}, "confidence":0.994341}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253007, "center_y":0.495080, "width":0.059324, "height":0.090749}, "confidence":0.991000}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data/s10 r kill/frame22.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805575, "center_y":0.438859, "width":0.061047, "height":0.109222}, "confidence":0.996267}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804358, "center_y":0.855793, "width":0.065120, "height":0.108548}, "confidence":0.991614}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371023, "center_y":0.349668, "width":0.063279, "height":0.122115}, "confidence":0.993525}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313273, "center_y":0.935580, "width":0.065406, "height":0.107164}, "confidence":0.996776}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686352, "center_y":0.228880, "width":0.057230, "height":0.112584}, "confidence":0.995448}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253935, "center_y":0.643116, "width":0.060414, "height":0.123847}, "confidence":0.994264}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628407, "center_y":0.646372, "width":0.056597, "height":0.127337}, "confidence":0.991918}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data/s10 r kill/frame53.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370695, "center_y":0.684791, "width":0.062019, "height":0.121955}, "confidence":0.992471}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686227, "center_y":0.917096, "width":0.055859, "height":0.114335}, "confidence":0.997135}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628686, "center_y":0.708900, "width":0.059450, "height":0.126854}, "confidence":0.994005}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251570, "center_y":0.372295, "width":0.056419, "height":0.082592}, "confidence":0.992869}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567877, "center_y":0.502750, "width":0.071751, "height":0.096240}, "confidence":0.991487}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data/s10 r kill/frame50.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.627882, "center_y":0.415038, "width":0.063810, "height":0.295821}, "confidence":0.993406}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569179, "center_y":0.736045, "width":0.062505, "height":0.110864}, "confidence":0.709111}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371614, "center_y":0.264275, "width":0.061228, "height":0.114737}, "confidence":0.994152}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371913, "center_y":0.853733, "width":0.064522, "height":0.126970}, "confidence":0.991260}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252182, "center_y":0.555442, "width":0.056989, "height":0.102495}, "confidence":0.963717}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data/s10 r kill/frame1.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.807083, "center_y":0.438521, "width":0.055595, "height":0.450161}, "confidence":0.987256}, 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.569945, "center_y":0.442314, "width":0.061292, "height":0.427389}, "confidence":0.994812}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429746, "center_y":0.920272, "width":0.057928, "height":0.091159}, "confidence":0.911211}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data/s10 r kill/frame100.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430564, "center_y":0.429331, "width":0.056593, "height":0.115715}, "confidence":0.990963}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569645, "center_y":0.957255, "width":0.055817, "height":0.085822}, "confidence":0.920422}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686640, "center_y":0.554585, "width":0.058678, "height":0.101792}, "confidence":0.998261}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628414, "center_y":0.338920, "width":0.056677, "height":0.116116}, "confidence":0.997277}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628894, "center_y":0.759947, "width":0.056280, "height":0.120485}, "confidence":0.997223}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253869, "center_y":0.722163, "width":0.058032, "height":0.122208}, "confidence":0.995747}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194120, "center_y":0.138744, "width":0.057128, "height":0.105070}, "confidence":0.991891}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data/s10 r kill/frame75.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804513, "center_y":0.643339, "width":0.062081, "height":0.116748}, "confidence":0.997230}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429608, "center_y":0.920939, "width":0.064558, "height":0.084403}, "confidence":0.987893}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746173, "center_y":0.851626, "width":0.061964, "height":0.117185}, "confidence":0.992576}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371789, "center_y":0.344091, "width":0.060316, "height":0.115629}, "confidence":0.990575}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.750687, "center_y":0.431156, "width":0.060154, "height":0.108567}, "confidence":0.990309}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312602, "center_y":0.640497, "width":0.055974, "height":0.113061}, "confidence":0.996914}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data/s10 r kill/frame124.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.748610, "center_y":0.838365, "width":0.065227, "height":0.311992}, "confidence":0.994690}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428716, "center_y":0.271040, "width":0.063970, "height":0.109558}, "confidence":0.995657}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804676, "center_y":0.535414, "width":0.063365, "height":0.107203}, "confidence":0.975054}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746699, "center_y":0.324109, "width":0.061490, "height":0.112093}, "confidence":0.987583}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312410, "center_y":0.711874, "width":0.056291, "height":0.107938}, "confidence":0.996094}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253344, "center_y":0.860458, "width":0.063595, "height":0.121331}, "confidence":0.994958}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data/s10 r kill/frame110.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371683, "center_y":0.458851, "width":0.062721, "height":0.115172}, "confidence":0.992429}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686128, "center_y":0.600401, "width":0.060898, "height":0.108650}, "confidence":0.998345}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312784, "center_y":0.754396, "width":0.055375, "height":0.112238}, "confidence":0.995166}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253288, "center_y":0.166916, "width":0.060671, "height":0.119256}, "confidence":0.997601}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628524, "center_y":0.378286, "width":0.053505, "height":0.093332}, "confidence":0.993989}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568544, "center_y":0.806427, "width":0.065114, "height":0.106723}, "confidence":0.994023}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.565729, "center_y":0.183522, "width":0.062189, "height":0.094644}, "confidence":0.988775}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data/s10 r kill/frame103.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428982, "center_y":0.261318, "width":0.059167, "height":0.109687}, "confidence":0.997654}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371344, "center_y":0.849691, "width":0.062582, "height":0.127038}, "confidence":0.992646}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.253583, "center_y":0.554566, "width":0.064062, "height":0.106460}, "confidence":0.942866}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686415, "center_y":0.311581, "width":0.063394, "height":0.110841}, "confidence":0.998030}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627253, "center_y":0.518509, "width":0.056540, "height":0.112246}, "confidence":0.990252}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628680, "center_y":0.941179, "width":0.056258, "height":0.116022}, "confidence":0.969155}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568947, "center_y":0.732004, "width":0.062931, "height":0.123413}, "confidence":0.983363}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data/s10 r kill/frame81.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428679, "center_y":0.601025, "width":0.059812, "height":0.109451}, "confidence":0.996645}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746856, "center_y":0.370179, "width":0.061099, "height":0.101436}, "confidence":0.980973}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746573, "center_y":0.796579, "width":0.061563, "height":0.116770}, "confidence":0.974469}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312063, "center_y":0.894800, "width":0.063784, "height":0.113574}, "confidence":0.998233}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685578, "center_y":0.590185, "width":0.060138, "height":0.111924}, "confidence":0.997815}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312033, "center_y":0.308982, "width":0.060246, "height":0.112890}, "confidence":0.995366}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.428326, "center_y":0.894478, "width":0.065155, "height":0.107115}, "confidence":0.759670}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data/s10 r kill/frame23.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804581, "center_y":0.779018, "width":0.062214, "height":0.115421}, "confidence":0.996879}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805232, "center_y":0.348956, "width":0.060320, "height":0.087538}, "confidence":0.996462}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371271, "center_y":0.294044, "width":0.059331, "height":0.121323}, "confidence":0.993474}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.627659, "center_y":0.568703, "width":0.061169, "height":0.109032}, "confidence":0.985876}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311948, "center_y":0.882479, "width":0.056351, "height":0.110245}, "confidence":0.996907}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687543, "center_y":0.965908, "width":0.060679, "height":0.063378}, "confidence":0.971411}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687480, "center_y":0.145058, "width":0.058263, "height":0.108607}, "confidence":0.793761}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253126, "center_y":0.590755, "width":0.061055, "height":0.117981}, "confidence":0.991833}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data/s10 r kill/frame5.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429468, "center_y":0.706593, "width":0.061897, "height":0.108878}, "confidence":0.997266}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804288, "center_y":0.943817, "width":0.063902, "height":0.103221}, "confidence":0.982965}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195665, "center_y":0.972276, "width":0.055390, "height":0.055096}, "confidence":0.967780}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data/s10 r kill/frame11.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429393, "center_y":0.373845, "width":0.060181, "height":0.108746}, "confidence":0.995397}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804354, "center_y":0.890753, "width":0.060885, "height":0.109860}, "confidence":0.994165}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195435, "center_y":0.667766, "width":0.061217, "height":0.109550}, "confidence":0.992548}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805545, "center_y":0.473850, "width":0.062430, "height":0.100180}, "confidence":0.989232}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746895, "center_y":0.680160, "width":0.060664, "height":0.112348}, "confidence":0.990656}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371532, "center_y":0.952799, "width":0.060526, "height":0.088867}, "confidence":0.740286}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data/s10 r kill/frame12.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428757, "center_y":0.316753, "width":0.064847, "height":0.109126}, "confidence":0.997598}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803739, "center_y":0.811145, "width":0.059322, "height":0.111141}, "confidence":0.996116}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804759, "center_y":0.391463, "width":0.061462, "height":0.111112}, "confidence":0.994747}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196247, "center_y":0.609806, "width":0.061477, "height":0.110779}, "confidence":0.882651}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746138, "center_y":0.603445, "width":0.060384, "height":0.122760}, "confidence":0.994015}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371720, "center_y":0.905388, "width":0.059104, "height":0.110122}, "confidence":0.954795}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data/s10 r kill/frame107.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372306, "center_y":0.626169, "width":0.062911, "height":0.115939}, "confidence":0.991806}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686414, "center_y":0.832840, "width":0.060096, "height":0.116347}, "confidence":0.997119}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311967, "center_y":0.921070, "width":0.055998, "height":0.106240}, "confidence":0.996235}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254000, "center_y":0.332819, "width":0.060977, "height":0.122233}, "confidence":0.995445}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627297, "center_y":0.625709, "width":0.059878, "height":0.117905}, "confidence":0.994044}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628231, "center_y":0.207817, "width":0.059462, "height":0.114210}, "confidence":0.946623}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567287, "center_y":0.414258, "width":0.067776, "height":0.106909}, "confidence":0.940688}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data/s10 r kill/frame44.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687350, "center_y":0.471950, "width":0.061982, "height":0.322441}, "confidence":0.997155}, 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.626752, "center_y":0.865687, "width":0.064654, "height":0.257960}, "confidence":0.991611}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569121, "center_y":0.167796, "width":0.057543, "height":0.104782}, "confidence":0.994558}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371900, "center_y":0.303007, "width":0.061437, "height":0.115935}, "confidence":0.992380}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372335, "center_y":0.598074, "width":0.061383, "height":0.115702}, "confidence":0.991665}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311452, "center_y":0.448455, "width":0.053152, "height":0.102068}, "confidence":0.992786}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253556, "center_y":0.893208, "width":0.065087, "height":0.125215}, "confidence":0.994580}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data/s10 r kill/frame116.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429215, "center_y":0.715151, "width":0.058543, "height":0.111830}, "confidence":0.996121}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744999, "center_y":0.540178, "width":0.063082, "height":0.131226}, "confidence":0.983956}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746361, "center_y":0.951517, "width":0.060467, "height":0.097076}, "confidence":0.964655}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312613, "center_y":0.420722, "width":0.054574, "height":0.111118}, "confidence":0.997732}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686937, "center_y":0.749689, "width":0.062428, "height":0.117488}, "confidence":0.997542}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568236, "center_y":0.332455, "width":0.067475, "height":0.102031}, "confidence":0.997186}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data/s10 r kill/frame86.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429174, "center_y":0.323708, "width":0.060049, "height":0.108640}, "confidence":0.998141}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429160, "center_y":0.616567, "width":0.066251, "height":0.105365}, "confidence":0.993210}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746532, "center_y":0.382413, "width":0.057748, "height":0.073900}, "confidence":0.940389}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312592, "center_y":0.617829, "width":0.064841, "height":0.112190}, "confidence":0.997305}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686837, "center_y":0.818784, "width":0.062831, "height":0.117036}, "confidence":0.997146}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685979, "center_y":0.191223, "width":0.056923, "height":0.108384}, "confidence":0.993818}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628660, "center_y":0.611017, "width":0.062103, "height":0.106261}, "confidence":0.983331}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195384, "center_y":0.909195, "width":0.063503, "height":0.111924}, "confidence":0.995007}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data/s10 r kill/frame13.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803657, "center_y":0.313206, "width":0.062160, "height":0.106810}, "confidence":0.997441}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804102, "center_y":0.733488, "width":0.059471, "height":0.112348}, "confidence":0.996213}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195623, "center_y":0.557375, "width":0.062303, "height":0.110410}, "confidence":0.787604}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429357, "center_y":0.261013, "width":0.061738, "height":0.105896}, "confidence":0.728676}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372019, "center_y":0.849155, "width":0.060846, "height":0.114425}, "confidence":0.992968}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745344, "center_y":0.521576, "width":0.062374, "height":0.125537}, "confidence":0.992430}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686718, "center_y":0.940731, "width":0.062340, "height":0.114498}, "confidence":0.996402}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data/s10 r kill/frame35.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804123, "center_y":0.254762, "width":0.063556, "height":0.094550}, "confidence":0.998294}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569862, "center_y":0.875259, "width":0.062076, "height":0.109918}, "confidence":0.959982}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371519, "center_y":0.801797, "width":0.062650, "height":0.118083}, "confidence":0.991856}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746489, "center_y":0.665428, "width":0.063209, "height":0.114721}, "confidence":0.982429}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313230, "center_y":0.215195, "width":0.062758, "height":0.105208}, "confidence":0.995729}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312158, "center_y":0.946424, "width":0.055308, "height":0.106531}, "confidence":0.995531}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194963, "center_y":0.509190, "width":0.068075, "height":0.099508}, "confidence":0.990215}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.564343, "center_y":0.455636, "width":0.058181, "height":0.109350}, "confidence":0.975177}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data/s10 r kill/frame51.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.629077, "center_y":0.342111, "width":0.064824, "height":0.297354}, "confidence":0.988754}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371084, "center_y":0.796381, "width":0.062153, "height":0.122501}, "confidence":0.992679}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370951, "center_y":0.210794, "width":0.060907, "height":0.125542}, "confidence":0.991218}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628575, "center_y":0.866786, "width":0.057558, "height":0.120999}, "confidence":0.988840}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252375, "center_y":0.498792, "width":0.056102, "height":0.089545}, "confidence":0.893648}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568664, "center_y":0.656841, "width":0.066716, "height":0.124829}, "confidence":0.959711}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data/s10 r kill/frame122.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.747208, "center_y":0.924849, "width":0.059783, "height":0.163326}, "confidence":0.978495}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429070, "center_y":0.381768, "width":0.060730, "height":0.107976}, "confidence":0.996165}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804632, "center_y":0.693837, "width":0.059154, "height":0.112400}, "confidence":0.993839}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.748421, "center_y":0.483520, "width":0.055322, "height":0.102343}, "confidence":0.984579}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686303, "center_y":0.273789, "width":0.063238, "height":0.113699}, "confidence":0.998012}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313044, "center_y":0.822459, "width":0.063958, "height":0.107477}, "confidence":0.995762}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254010, "center_y":0.675937, "width":0.060337, "height":0.119399}, "confidence":0.994724}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253799, "center_y":0.958012, "width":0.054617, "height":0.086746}, "confidence":0.976868}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data/s10 r kill/frame58.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373556, "center_y":0.397273, "width":0.056082, "height":0.089560}, "confidence":0.993167}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311680, "center_y":0.849056, "width":0.060867, "height":0.115825}, "confidence":0.994905}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687773, "center_y":0.523479, "width":0.056952, "height":0.121904}, "confidence":0.911443}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626873, "center_y":0.311035, "width":0.063679, "height":0.117516}, "confidence":0.997920}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627665, "center_y":0.733395, "width":0.062575, "height":0.130212}, "confidence":0.992325}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253907, "center_y":0.702720, "width":0.059897, "height":0.104278}, "confidence":0.961523}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252710, "center_y":0.970241, "width":0.055599, "height":0.052140}, "confidence":0.882794}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data/s10 r kill/frame129.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.748794, "center_y":0.446034, "width":0.063752, "height":0.310889}, "confidence":0.997111}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687059, "center_y":0.854761, "width":0.068756, "height":0.285199}, "confidence":0.998700}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371581, "center_y":0.874207, "width":0.062677, "height":0.117451}, "confidence":0.991982}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312018, "center_y":0.431027, "width":0.059710, "height":0.105867}, "confidence":0.998304}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253514, "center_y":0.287566, "width":0.061792, "height":0.116616}, "confidence":0.995235}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253619, "center_y":0.582844, "width":0.062856, "height":0.115977}, "confidence":0.993883}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data/s10 r kill/frame123.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.747115, "center_y":0.887474, "width":0.065891, "height":0.242171}, "confidence":0.978220}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428990, "center_y":0.327152, "width":0.060629, "height":0.108409}, "confidence":0.997311}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804299, "center_y":0.613554, "width":0.064403, "height":0.109678}, "confidence":0.989450}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747640, "center_y":0.389138, "width":0.057877, "height":0.083165}, "confidence":0.981124}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686105, "center_y":0.196669, "width":0.061014, "height":0.111949}, "confidence":0.996755}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313283, "center_y":0.767447, "width":0.063127, "height":0.107337}, "confidence":0.992825}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254075, "center_y":0.620751, "width":0.064977, "height":0.121161}, "confidence":0.994910}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253982, "center_y":0.915120, "width":0.056974, "height":0.121518}, "confidence":0.994517}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data/s10 r kill/frame140.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803759, "center_y":0.317697, "width":0.063052, "height":0.108993}, "confidence":0.998127}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370686, "center_y":0.263828, "width":0.061920, "height":0.121429}, "confidence":0.992490}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746715, "center_y":0.522905, "width":0.064732, "height":0.107177}, "confidence":0.990863}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.253808, "center_y":0.558421, "width":0.065636, "height":0.110774}, "confidence":0.990128}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371638, "center_y":0.851252, "width":0.062855, "height":0.117144}, "confidence":0.989347}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686815, "center_y":0.734753, "width":0.063149, "height":0.115392}, "confidence":0.997662}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312829, "center_y":0.971945, "width":0.061671, "height":0.055062}, "confidence":0.987873}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628647, "center_y":0.942740, "width":0.057239, "height":0.115327}, "confidence":0.992115}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data/s10 r kill/frame7.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804116, "center_y":0.786947, "width":0.062175, "height":0.114407}, "confidence":0.994891}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429127, "center_y":0.594568, "width":0.062027, "height":0.108774}, "confidence":0.994048}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195603, "center_y":0.889367, "width":0.063544, "height":0.110965}, "confidence":0.919227}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data/s10 r kill/frame19.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804186, "center_y":0.261482, "width":0.063433, "height":0.102753}, "confidence":0.997770}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804471, "center_y":0.675146, "width":0.061589, "height":0.116238}, "confidence":0.997414}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372266, "center_y":0.511697, "width":0.063454, "height":0.103005}, "confidence":0.995540}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685892, "center_y":0.467020, "width":0.065308, "height":0.116375}, "confidence":0.996644}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253397, "center_y":0.809747, "width":0.062338, "height":0.122101}, "confidence":0.994127}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628884, "center_y":0.883956, "width":0.061268, "height":0.110724}, "confidence":0.989020}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195184, "center_y":0.222811, "width":0.063134, "height":0.099884}, "confidence":0.989737}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data/s10 r kill/frame28.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804604, "center_y":0.380752, "width":0.060065, "height":0.113718}, "confidence":0.994968}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685977, "center_y":0.592949, "width":0.060162, "height":0.115431}, "confidence":0.996698}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312856, "center_y":0.605551, "width":0.055442, "height":0.115403}, "confidence":0.996431}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253242, "center_y":0.309792, "width":0.065288, "height":0.119191}, "confidence":0.996324}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627908, "center_y":0.172899, "width":0.053563, "height":0.113065}, "confidence":0.958437}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194627, "center_y":0.897626, "width":0.066884, "height":0.104804}, "confidence":0.995420}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data/s10 r kill/frame87.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429532, "center_y":0.268327, "width":0.061058, "height":0.105046}, "confidence":0.995195}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429260, "center_y":0.562574, "width":0.060226, "height":0.107970}, "confidence":0.993413}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746691, "center_y":0.319484, "width":0.061929, "height":0.110665}, "confidence":0.991631}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.626041, "center_y":0.525499, "width":0.054661, "height":0.091733}, "confidence":0.775881}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312983, "center_y":0.564134, "width":0.056592, "height":0.109502}, "confidence":0.996708}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686779, "center_y":0.741563, "width":0.063053, "height":0.117350}, "confidence":0.995513}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194806, "center_y":0.855237, "width":0.067387, "height":0.103174}, "confidence":0.997632}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data/s10 r kill/frame62.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806843, "center_y":0.726852, "width":0.057432, "height":0.310363}, "confidence":0.992423}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371998, "center_y":0.185211, "width":0.060213, "height":0.119379}, "confidence":0.996617}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312214, "center_y":0.628395, "width":0.058977, "height":0.108534}, "confidence":0.996686}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686617, "center_y":0.205654, "width":0.060108, "height":0.112547}, "confidence":0.996223}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253045, "center_y":0.773948, "width":0.065198, "height":0.126229}, "confidence":0.996575}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626689, "center_y":0.389089, "width":0.054714, "height":0.056168}, "confidence":0.995197}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251344, "center_y":0.481949, "width":0.055173, "height":0.096566}, "confidence":0.995175}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data/s10 r kill/frame3.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806973, "center_y":0.365640, "width":0.055196, "height":0.336041}, "confidence":0.989966}, 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.566582, "center_y":0.365388, "width":0.065007, "height":0.331101}, "confidence":0.993981}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429433, "center_y":0.817029, "width":0.063388, "height":0.107817}, "confidence":0.993458}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data/s10 r kill/frame33.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804618, "center_y":0.404813, "width":0.060065, "height":0.114184}, "confidence":0.994788}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371013, "center_y":0.914401, "width":0.060077, "height":0.121631}, "confidence":0.993958}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746207, "center_y":0.823389, "width":0.063704, "height":0.117652}, "confidence":0.989577}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686631, "center_y":0.197021, "width":0.063282, "height":0.110514}, "confidence":0.997389}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312418, "center_y":0.326657, "width":0.058184, "height":0.110377}, "confidence":0.995961}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567705, "center_y":0.614710, "width":0.066541, "height":0.099573}, "confidence":0.991346}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195134, "center_y":0.621427, "width":0.067958, "height":0.099192}, "confidence":0.988457}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data/s10 r kill/frame99.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429682, "center_y":0.484919, "width":0.058195, "height":0.110347}, "confidence":0.997166}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804017, "center_y":0.212634, "width":0.064024, "height":0.101514}, "confidence":0.983762}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686359, "center_y":0.629699, "width":0.061328, "height":0.113281}, "confidence":0.997792}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628648, "center_y":0.839257, "width":0.057413, "height":0.119701}, "confidence":0.997715}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628063, "center_y":0.416468, "width":0.051026, "height":0.112876}, "confidence":0.995856}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253109, "center_y":0.779991, "width":0.061152, "height":0.117436}, "confidence":0.995029}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194982, "center_y":0.193089, "width":0.063610, "height":0.095329}, "confidence":0.987110}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data/s10 r kill/frame41.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686621, "center_y":0.712346, "width":0.067792, "height":0.312713}, "confidence":0.998941}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373560, "center_y":0.466477, "width":0.065793, "height":0.101130}, "confidence":0.995142}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371660, "center_y":0.764275, "width":0.062719, "height":0.116721}, "confidence":0.987153}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747212, "center_y":0.193143, "width":0.060995, "height":0.114647}, "confidence":0.986438}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311763, "center_y":0.619006, "width":0.061302, "height":0.109005}, "confidence":0.996930}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194347, "center_y":0.183342, "width":0.057365, "height":0.093334}, "confidence":0.994818}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567609, "center_y":0.402661, "width":0.067270, "height":0.106838}, "confidence":0.987640}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data/s10 r kill/frame104.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428984, "center_y":0.207002, "width":0.058749, "height":0.106700}, "confidence":0.997214}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371846, "center_y":0.792613, "width":0.067008, "height":0.115170}, "confidence":0.991843}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686165, "center_y":0.232713, "width":0.062246, "height":0.111659}, "confidence":0.996687}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628172, "center_y":0.862973, "width":0.055730, "height":0.123942}, "confidence":0.993863}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627727, "center_y":0.439495, "width":0.060247, "height":0.112792}, "confidence":0.991645}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252272, "center_y":0.497304, "width":0.053068, "height":0.103132}, "confidence":0.981977}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568201, "center_y":0.652494, "width":0.065481, "height":0.104106}, "confidence":0.995063}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"data/s10 r kill/frame43.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686418, "center_y":0.555884, "width":0.062627, "height":0.320735}, "confidence":0.998323}, 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.626906, "center_y":0.904979, "width":0.061920, "height":0.183411}, "confidence":0.966767}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371562, "center_y":0.355204, "width":0.061882, "height":0.113566}, "confidence":0.994499}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371814, "center_y":0.651427, "width":0.062016, "height":0.119812}, "confidence":0.986174}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312368, "center_y":0.506896, "width":0.060936, "height":0.101782}, "confidence":0.995761}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253806, "center_y":0.944898, "width":0.063993, "height":0.116121}, "confidence":0.991841}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569907, "center_y":0.242136, "width":0.069596, "height":0.125044}, "confidence":0.948916}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"data/s10 r kill/frame40.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687049, "center_y":0.789105, "width":0.068996, "height":0.315762}, "confidence":0.998687}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370666, "center_y":0.521448, "width":0.061678, "height":0.117592}, "confidence":0.995370}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746536, "center_y":0.269920, "width":0.060866, "height":0.115665}, "confidence":0.990539}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371983, "center_y":0.818490, "width":0.062316, "height":0.115995}, "confidence":0.990051}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312513, "center_y":0.673718, "width":0.056378, "height":0.112224}, "confidence":0.996232}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567557, "center_y":0.481338, "width":0.069596, "height":0.102919}, "confidence":0.997165}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195596, "center_y":0.233762, "width":0.067964, "height":0.102458}, "confidence":0.989353}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"data/s10 r kill/frame126.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.747828, "center_y":0.695770, "width":0.067182, "height":0.345887}, "confidence":0.991110}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804661, "center_y":0.364777, "width":0.058210, "height":0.085537}, "confidence":0.995493}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430417, "center_y":0.159627, "width":0.063513, "height":0.103991}, "confidence":0.994700}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312272, "center_y":0.602180, "width":0.056882, "height":0.109043}, "confidence":0.996520}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685972, "center_y":0.974368, "width":0.072421, "height":0.055454}, "confidence":0.907819}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252849, "center_y":0.748653, "width":0.060376, "height":0.117215}, "confidence":0.997171}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252520, "center_y":0.450491, "width":0.057935, "height":0.109599}, "confidence":0.995655}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"data/s10 r kill/frame117.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428623, "center_y":0.659827, "width":0.061967, "height":0.109024}, "confidence":0.996621}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747668, "center_y":0.458745, "width":0.059985, "height":0.110616}, "confidence":0.980584}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746518, "center_y":0.879957, "width":0.062042, "height":0.115746}, "confidence":0.955567}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686451, "center_y":0.670810, "width":0.061973, "height":0.117600}, "confidence":0.997133}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312372, "center_y":0.365557, "width":0.057404, "height":0.107858}, "confidence":0.995900}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567575, "center_y":0.253459, "width":0.068399, "height":0.099992}, "confidence":0.996635}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"data/s10 r kill/frame60.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.805500, "center_y":0.860918, "width":0.064351, "height":0.243061}, "confidence":0.736719}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370884, "center_y":0.296222, "width":0.060659, "height":0.124059}, "confidence":0.994002}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687043, "center_y":0.362290, "width":0.061493, "height":0.112551}, "confidence":0.997451}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311998, "center_y":0.739403, "width":0.058831, "height":0.112086}, "confidence":0.995432}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627939, "center_y":0.573877, "width":0.060173, "height":0.102444}, "confidence":0.993910}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253057, "center_y":0.592511, "width":0.060282, "height":0.115373}, "confidence":0.992249}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252939, "center_y":0.886359, "width":0.065647, "height":0.129101}, "confidence":0.989934}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"data/s10 r kill/frame108.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569239, "center_y":0.954786, "width":0.056376, "height":0.087199}, "confidence":0.815351}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371551, "center_y":0.572998, "width":0.062160, "height":0.125372}, "confidence":0.993540}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686476, "center_y":0.754713, "width":0.061473, "height":0.115741}, "confidence":0.997139}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312548, "center_y":0.865435, "width":0.057488, "height":0.110605}, "confidence":0.996418}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253236, "center_y":0.277869, "width":0.062900, "height":0.119200}, "confidence":0.996563}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.621687, "center_y":0.540938, "width":0.048747, "height":0.103561}, "confidence":0.941725}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568243, "center_y":0.335256, "width":0.065815, "height":0.097583}, "confidence":0.997119}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"data/s10 r kill/frame57.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568269, "center_y":0.186883, "width":0.062054, "height":0.102241}, "confidence":0.983563}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371696, "center_y":0.462299, "width":0.062072, "height":0.108558}, "confidence":0.988110}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686033, "center_y":0.602461, "width":0.061788, "height":0.111437}, "confidence":0.997568}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312568, "center_y":0.904792, "width":0.057909, "height":0.111425}, "confidence":0.996959}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627235, "center_y":0.811412, "width":0.061573, "height":0.127985}, "confidence":0.996900}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253626, "center_y":0.170167, "width":0.059392, "height":0.118313}, "confidence":0.996583}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628674, "center_y":0.381476, "width":0.052894, "height":0.092487}, "confidence":0.988994}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253950, "center_y":0.757779, "width":0.060772, "height":0.105310}, "confidence":0.968010}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"data/s10 r kill/frame37.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745145, "center_y":0.502697, "width":0.062372, "height":0.110936}, "confidence":0.991881}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371892, "center_y":0.692682, "width":0.062392, "height":0.119427}, "confidence":0.989298}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372580, "center_y":0.964570, "width":0.059547, "height":0.069051}, "confidence":0.880491}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312929, "center_y":0.838533, "width":0.066179, "height":0.110362}, "confidence":0.995128}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687220, "center_y":0.933710, "width":0.061728, "height":0.143717}, "confidence":0.923149}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568175, "center_y":0.299481, "width":0.070413, "height":0.099503}, "confidence":0.997235}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194459, "center_y":0.395645, "width":0.069171, "height":0.101639}, "confidence":0.995707}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567128, "center_y":0.718184, "width":0.068679, "height":0.107154}, "confidence":0.966290}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"data/s10 r kill/frame139.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805584, "center_y":0.398487, "width":0.066970, "height":0.103002}, "confidence":0.988389}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371399, "center_y":0.907062, "width":0.066314, "height":0.112165}, "confidence":0.992602}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746471, "center_y":0.605273, "width":0.063173, "height":0.114684}, "confidence":0.991624}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371433, "center_y":0.319288, "width":0.062595, "height":0.117128}, "confidence":0.991135}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686615, "center_y":0.814296, "width":0.063330, "height":0.116954}, "confidence":0.997632}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253698, "center_y":0.613378, "width":0.060492, "height":0.104289}, "confidence":0.942768}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"data/s10 r kill/frame92.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804397, "center_y":0.762774, "width":0.062989, "height":0.115417}, "confidence":0.997803}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429640, "center_y":0.284565, "width":0.057622, "height":0.102786}, "confidence":0.997097}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429097, "center_y":0.871352, "width":0.061022, "height":0.112771}, "confidence":0.992537}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312365, "center_y":0.283485, "width":0.058477, "height":0.108593}, "confidence":0.998136}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686096, "center_y":0.342313, "width":0.059594, "height":0.107633}, "confidence":0.997319}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195081, "center_y":0.578919, "width":0.069417, "height":0.097833}, "confidence":0.989869}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568747, "center_y":0.555395, "width":0.067920, "height":0.107160}, "confidence":0.979427}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"data/s10 r kill/frame73.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686867, "center_y":0.272987, "width":0.062077, "height":0.295149}, "confidence":0.997916}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804811, "center_y":0.800538, "width":0.063321, "height":0.116734}, "confidence":0.997227}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372072, "center_y":0.455993, "width":0.066247, "height":0.115286}, "confidence":0.993631}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746120, "center_y":0.591877, "width":0.064793, "height":0.123367}, "confidence":0.968220}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312580, "center_y":0.751449, "width":0.056153, "height":0.112881}, "confidence":0.995853}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253709, "center_y":0.161940, "width":0.064304, "height":0.118600}, "confidence":0.998377}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"data/s10 r kill/frame143.jpg", 
+ "objects": [ 
+  {"class_id":5, "name":"Left_Blue_Hold", "relative_coordinates":{"center_x":0.570428, "center_y":0.927818, "width":0.051539, "height":0.130926}, "confidence":0.760910}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371771, "center_y":0.685801, "width":0.062329, "height":0.115431}, "confidence":0.991807}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746318, "center_y":0.289726, "width":0.061793, "height":0.115727}, "confidence":0.990342}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371431, "center_y":0.962613, "width":0.058478, "height":0.075328}, "confidence":0.931740}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685653, "center_y":0.497581, "width":0.059845, "height":0.116541}, "confidence":0.995650}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313182, "center_y":0.832019, "width":0.062518, "height":0.109365}, "confidence":0.993556}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628348, "center_y":0.711103, "width":0.058408, "height":0.126558}, "confidence":0.994155}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.250921, "center_y":0.371383, "width":0.052490, "height":0.074529}, "confidence":0.983427}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"data/s10 r kill/frame45.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687356, "center_y":0.389649, "width":0.064083, "height":0.327407}, "confidence":0.980447}, 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.627324, "center_y":0.817112, "width":0.061959, "height":0.322309}, "confidence":0.994543}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371962, "center_y":0.247480, "width":0.060275, "height":0.116959}, "confidence":0.989970}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373725, "center_y":0.539649, "width":0.060951, "height":0.109210}, "confidence":0.987717}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311980, "center_y":0.397145, "width":0.058955, "height":0.119501}, "confidence":0.994059}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254102, "center_y":0.836497, "width":0.062198, "height":0.108017}, "confidence":0.992333}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"data/s10 r kill/frame121.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803993, "center_y":0.772768, "width":0.060005, "height":0.112818}, "confidence":0.997458}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429944, "center_y":0.439846, "width":0.058743, "height":0.109073}, "confidence":0.997351}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745327, "center_y":0.564327, "width":0.063537, "height":0.129608}, "confidence":0.995790}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686388, "center_y":0.354538, "width":0.062358, "height":0.111670}, "confidence":0.997700}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312243, "center_y":0.879161, "width":0.054891, "height":0.111321}, "confidence":0.995991}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253766, "center_y":0.732521, "width":0.066251, "height":0.123879}, "confidence":0.983829}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254719, "center_y":0.985009, "width":0.056604, "height":0.029547}, "confidence":0.795167}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"data/s10 r kill/frame130.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.746426, "center_y":0.366958, "width":0.065887, "height":0.317072}, "confidence":0.998655}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687231, "center_y":0.789414, "width":0.067780, "height":0.316454}, "confidence":0.998628}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371828, "center_y":0.819244, "width":0.062985, "height":0.117868}, "confidence":0.991763}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313029, "center_y":0.376012, "width":0.065613, "height":0.095905}, "confidence":0.996209}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254827, "center_y":0.229975, "width":0.064092, "height":0.129469}, "confidence":0.989416}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252680, "center_y":0.520259, "width":0.056883, "height":0.105254}, "confidence":0.986124}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"data/s10 r kill/frame9.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804588, "center_y":0.629693, "width":0.060552, "height":0.110530}, "confidence":0.996098}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429334, "center_y":0.482890, "width":0.066241, "height":0.108499}, "confidence":0.981135}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196422, "center_y":0.777049, "width":0.061452, "height":0.108717}, "confidence":0.979355}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746385, "center_y":0.838102, "width":0.063158, "height":0.115314}, "confidence":0.990515}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"data/s10 r kill/frame47.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687049, "center_y":0.248049, "width":0.060358, "height":0.270983}, "confidence":0.941654}, 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.628590, "center_y":0.658099, "width":0.062718, "height":0.327077}, "confidence":0.990499}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373147, "center_y":0.431029, "width":0.060528, "height":0.128579}, "confidence":0.995964}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312047, "center_y":0.284862, "width":0.058411, "height":0.112089}, "confidence":0.996575}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253863, "center_y":0.725196, "width":0.061552, "height":0.106079}, "confidence":0.987627}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"data/s10 r kill/frame71.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687750, "center_y":0.428914, "width":0.063218, "height":0.318852}, "confidence":0.990118}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804592, "center_y":0.950910, "width":0.059181, "height":0.093797}, "confidence":0.762094}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370167, "center_y":0.568590, "width":0.063725, "height":0.128285}, "confidence":0.996732}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746666, "center_y":0.751060, "width":0.060852, "height":0.118634}, "confidence":0.985544}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312216, "center_y":0.862849, "width":0.057882, "height":0.114959}, "confidence":0.996368}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253955, "center_y":0.274433, "width":0.064123, "height":0.120707}, "confidence":0.997714}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"data/s10 r kill/frame101.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429299, "center_y":0.371783, "width":0.058936, "height":0.110293}, "confidence":0.997380}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371861, "center_y":0.950973, "width":0.063803, "height":0.098433}, "confidence":0.992573}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686319, "center_y":0.466504, "width":0.064170, "height":0.113432}, "confidence":0.997756}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253756, "center_y":0.666358, "width":0.062712, "height":0.119142}, "confidence":0.996452}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628365, "center_y":0.259218, "width":0.055113, "height":0.120024}, "confidence":0.996385}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628716, "center_y":0.679341, "width":0.055243, "height":0.123302}, "confidence":0.995574}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"data/s10 r kill/frame131.jpg", 
+ "objects": [ 
+  {"class_id":8, "name":"Right_Red_Hold", "relative_coordinates":{"center_x":0.745999, "center_y":0.282785, "width":0.067326, "height":0.307780}, "confidence":0.998814}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686587, "center_y":0.710281, "width":0.066486, "height":0.317003}, "confidence":0.998739}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371203, "center_y":0.764087, "width":0.063078, "height":0.116501}, "confidence":0.987814}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313255, "center_y":0.323437, "width":0.063716, "height":0.107517}, "confidence":0.996353}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253274, "center_y":0.177353, "width":0.061344, "height":0.112800}, "confidence":0.996426}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252765, "center_y":0.473891, "width":0.055476, "height":0.095668}, "confidence":0.994328}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"data/s10 r kill/frame46.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686715, "center_y":0.317532, "width":0.066200, "height":0.312623}, "confidence":0.998841}, 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.627344, "center_y":0.738240, "width":0.063783, "height":0.327375}, "confidence":0.995086}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.373344, "center_y":0.483191, "width":0.059558, "height":0.105165}, "confidence":0.992941}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371773, "center_y":0.193309, "width":0.062619, "height":0.116151}, "confidence":0.992720}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313180, "center_y":0.338866, "width":0.066525, "height":0.110348}, "confidence":0.996009}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253571, "center_y":0.783351, "width":0.063046, "height":0.120932}, "confidence":0.994249}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"data/s10 r kill/frame94.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429072, "center_y":0.761423, "width":0.061130, "height":0.110087}, "confidence":0.995802}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804179, "center_y":0.605391, "width":0.058464, "height":0.115947}, "confidence":0.994737}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311959, "center_y":0.175410, "width":0.055395, "height":0.106498}, "confidence":0.986331}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687152, "center_y":0.983779, "width":0.059967, "height":0.032363}, "confidence":0.781763}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627191, "center_y":0.816147, "width":0.059757, "height":0.125269}, "confidence":0.994251}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568210, "center_y":0.397471, "width":0.069447, "height":0.105648}, "confidence":0.994136}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.192876, "center_y":0.468744, "width":0.061286, "height":0.101325}, "confidence":0.991943}
+ ] 
+}, 
+{
+ "frame_id":132, 
+ "filename":"data/s10 r kill/frame24.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803870, "center_y":0.281589, "width":0.061394, "height":0.108003}, "confidence":0.998793}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804593, "center_y":0.699546, "width":0.060649, "height":0.113515}, "confidence":0.997989}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371332, "center_y":0.237820, "width":0.064121, "height":0.126256}, "confidence":0.994907}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252534, "center_y":0.526016, "width":0.058835, "height":0.095030}, "confidence":0.983352}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686775, "center_y":0.907162, "width":0.059408, "height":0.115427}, "confidence":0.997685}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312261, "center_y":0.826067, "width":0.057280, "height":0.112397}, "confidence":0.996326}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626300, "center_y":0.490040, "width":0.050197, "height":0.105965}, "confidence":0.972480}
+ ] 
+}, 
+{
+ "frame_id":133, 
+ "filename":"data/s10 r kill/frame120.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429294, "center_y":0.494855, "width":0.059968, "height":0.106424}, "confidence":0.998064}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804077, "center_y":0.852624, "width":0.060163, "height":0.110926}, "confidence":0.997455}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746121, "center_y":0.644125, "width":0.063047, "height":0.125842}, "confidence":0.994901}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746852, "center_y":0.225577, "width":0.060775, "height":0.111793}, "confidence":0.985373}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311801, "center_y":0.198990, "width":0.062077, "height":0.105651}, "confidence":0.997574}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686335, "center_y":0.430906, "width":0.062625, "height":0.116609}, "confidence":0.997486}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312218, "center_y":0.933935, "width":0.060415, "height":0.107821}, "confidence":0.996839}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253939, "center_y":0.788528, "width":0.060981, "height":0.120895}, "confidence":0.990456}
+ ] 
+}, 
+{
+ "frame_id":134, 
+ "filename":"data/s10 r kill/frame102.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429048, "center_y":0.317585, "width":0.062876, "height":0.107437}, "confidence":0.998768}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371703, "center_y":0.904366, "width":0.062560, "height":0.120113}, "confidence":0.989720}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686591, "center_y":0.396632, "width":0.064860, "height":0.126653}, "confidence":0.997671}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627999, "center_y":0.602283, "width":0.056107, "height":0.119138}, "confidence":0.996617}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253510, "center_y":0.611205, "width":0.062421, "height":0.101728}, "confidence":0.993742}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627902, "center_y":0.183406, "width":0.056637, "height":0.114174}, "confidence":0.992433}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569539, "center_y":0.810746, "width":0.062522, "height":0.125725}, "confidence":0.924092}
+ ] 
+}, 
+{
+ "frame_id":135, 
+ "filename":"data/s10 r kill/frame66.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.807072, "center_y":0.415447, "width":0.055623, "height":0.323262}, "confidence":0.996359}, 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687001, "center_y":0.825069, "width":0.068453, "height":0.315110}, "confidence":0.998420}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371834, "center_y":0.846714, "width":0.061557, "height":0.117857}, "confidence":0.988563}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312835, "center_y":0.408788, "width":0.055328, "height":0.118269}, "confidence":0.996231}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253264, "center_y":0.257391, "width":0.060749, "height":0.124297}, "confidence":0.996827}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252758, "center_y":0.554654, "width":0.060638, "height":0.120703}, "confidence":0.724550}
+ ] 
+}, 
+{
+ "frame_id":136, 
+ "filename":"data/s10 r kill/frame29.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804353, "center_y":0.721772, "width":0.063710, "height":0.115962}, "confidence":0.997657}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803422, "center_y":0.304606, "width":0.064202, "height":0.108546}, "confidence":0.996983}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569333, "center_y":0.928102, "width":0.060769, "height":0.096813}, "confidence":0.714191}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313126, "center_y":0.554587, "width":0.057939, "height":0.104624}, "confidence":0.998258}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686908, "center_y":0.508552, "width":0.063095, "height":0.100603}, "confidence":0.995552}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253594, "center_y":0.254566, "width":0.062491, "height":0.125292}, "confidence":0.996514}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194627, "center_y":0.842770, "width":0.060994, "height":0.108949}, "confidence":0.993327}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569234, "center_y":0.928194, "width":0.061789, "height":0.120482}, "confidence":0.829359}
+ ] 
+}, 
+{
+ "frame_id":137, 
+ "filename":"data/s10 r kill/frame56.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370034, "center_y":0.518620, "width":0.064537, "height":0.125406}, "confidence":0.994961}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686351, "center_y":0.680917, "width":0.060336, "height":0.114786}, "confidence":0.997706}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313387, "center_y":0.953132, "width":0.064599, "height":0.092805}, "confidence":0.994940}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627110, "center_y":0.476077, "width":0.053176, "height":0.103235}, "confidence":0.996575}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627892, "center_y":0.890865, "width":0.061466, "height":0.125738}, "confidence":0.995895}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253659, "center_y":0.224829, "width":0.059084, "height":0.119472}, "confidence":0.995381}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253967, "center_y":0.813458, "width":0.059636, "height":0.103396}, "confidence":0.986049}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568252, "center_y":0.262629, "width":0.069865, "height":0.098755}, "confidence":0.991725}
+ ] 
+}, 
+{
+ "frame_id":138, 
+ "filename":"data/s10 r kill/frame30.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804201, "center_y":0.642828, "width":0.063823, "height":0.118742}, "confidence":0.997531}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803587, "center_y":0.225611, "width":0.067318, "height":0.107159}, "confidence":0.997147}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686312, "center_y":0.430961, "width":0.063361, "height":0.118559}, "confidence":0.998066}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312436, "center_y":0.492027, "width":0.058741, "height":0.112937}, "confidence":0.997983}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253218, "center_y":0.199716, "width":0.062359, "height":0.122672}, "confidence":0.994915}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194806, "center_y":0.786948, "width":0.064544, "height":0.103525}, "confidence":0.990687}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568260, "center_y":0.853194, "width":0.068696, "height":0.107135}, "confidence":0.989136}
+ ] 
+}, 
+{
+ "frame_id":139, 
+ "filename":"data/s10 r kill/frame69.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686590, "center_y":0.590141, "width":0.061460, "height":0.325269}, "confidence":0.998980}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370853, "center_y":0.679910, "width":0.061483, "height":0.123264}, "confidence":0.992541}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313362, "center_y":0.238624, "width":0.062993, "height":0.108777}, "confidence":0.995834}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311879, "center_y":0.958927, "width":0.053529, "height":0.082014}, "confidence":0.995259}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252671, "center_y":0.375569, "width":0.056494, "height":0.089932}, "confidence":0.995072}
+ ] 
+}, 
+{
+ "frame_id":140, 
+ "filename":"data/s10 r kill/frame70.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.687014, "center_y":0.510735, "width":0.060030, "height":0.336124}, "confidence":0.965340}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371264, "center_y":0.624393, "width":0.064823, "height":0.124836}, "confidence":0.994355}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746983, "center_y":0.828564, "width":0.059316, "height":0.116883}, "confidence":0.923080}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312562, "center_y":0.918000, "width":0.056032, "height":0.113719}, "confidence":0.998108}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253248, "center_y":0.329225, "width":0.061377, "height":0.119418}, "confidence":0.996554}
+ ] 
+}, 
+{
+ "frame_id":141, 
+ "filename":"data/s10 r kill/frame20.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804151, "center_y":0.596653, "width":0.058672, "height":0.111318}, "confidence":0.995345}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371857, "center_y":0.458774, "width":0.062482, "height":0.114751}, "confidence":0.990640}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686291, "center_y":0.395770, "width":0.064907, "height":0.134721}, "confidence":0.997082}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628358, "center_y":0.806320, "width":0.055830, "height":0.120753}, "confidence":0.993991}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253862, "center_y":0.755603, "width":0.060432, "height":0.126330}, "confidence":0.993106}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.193958, "center_y":0.173297, "width":0.054351, "height":0.087624}, "confidence":0.988967}
+ ] 
+}, 
+{
+ "frame_id":142, 
+ "filename":"data/s10 r kill/frame52.jpg", 
+ "objects": [ 
+  {"class_id":6, "name":"Left_Red_Hold", "relative_coordinates":{"center_x":0.627549, "center_y":0.260071, "width":0.060833, "height":0.304550}, "confidence":0.992777}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371594, "center_y":0.739988, "width":0.062503, "height":0.117520}, "confidence":0.991187}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687094, "center_y":0.969636, "width":0.060540, "height":0.057563}, "confidence":0.859241}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628223, "center_y":0.788570, "width":0.056846, "height":0.122319}, "confidence":0.992026}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253722, "center_y":0.443852, "width":0.061458, "height":0.110840}, "confidence":0.991656}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569314, "center_y":0.578740, "width":0.068414, "height":0.125177}, "confidence":0.976662}
+ ] 
+}, 
+{
+ "frame_id":143, 
+ "filename":"data/s10 r kill/frame137.jpg", 
+ "objects": [ 
+  {"class_id":7, "name":"Centre_Hold", "relative_coordinates":{"center_x":0.686150, "center_y":0.247257, "width":0.062131, "height":0.293380}, "confidence":0.995022}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803735, "center_y":0.556704, "width":0.059060, "height":0.110503}, "confidence":0.988269}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.374182, "center_y":0.427770, "width":0.056760, "height":0.111019}, "confidence":0.992334}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746249, "center_y":0.764516, "width":0.063925, "height":0.117382}, "confidence":0.984254}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686089, "center_y":0.958576, "width":0.055838, "height":0.086615}, "confidence":0.996670}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254102, "center_y":0.725858, "width":0.056603, "height":0.116811}, "confidence":0.994766}
+ ] 
+}, 
+{
+ "frame_id":144, 
+ "filename":"data/s10 r kill/frame78.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804277, "center_y":0.405772, "width":0.061206, "height":0.113188}, "confidence":0.997066}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429132, "center_y":0.767658, "width":0.061014, "height":0.110790}, "confidence":0.989070}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371829, "center_y":0.179121, "width":0.060434, "height":0.122583}, "confidence":0.996580}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746672, "center_y":0.613570, "width":0.061839, "height":0.116233}, "confidence":0.990080}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744327, "center_y":0.197850, "width":0.062983, "height":0.123670}, "confidence":0.985681}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311879, "center_y":0.471442, "width":0.059230, "height":0.102089}, "confidence":0.998825}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686935, "center_y":0.824130, "width":0.061890, "height":0.117694}, "confidence":0.997290}
+ ] 
+}, 
+{
+ "frame_id":145, 
+ "filename":"data/s10 r kill/frame63.jpg", 
+ "objects": [ 
+  {"class_id":9, "name":"Right_Blue_Hold", "relative_coordinates":{"center_x":0.806561, "center_y":0.650267, "width":0.058455, "height":0.314525}, "confidence":0.994923}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312692, "center_y":0.573277, "width":0.056162, "height":0.105320}, "confidence":0.997875}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627891, "center_y":0.333243, "width":0.057921, "height":0.112564}, "confidence":0.997639}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253408, "center_y":0.718734, "width":0.060649, "height":0.125397}, "confidence":0.994976}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252549, "center_y":0.420907, "width":0.056328, "height":0.107517}, "confidence":0.993757}
+ ] 
+}, 
+{
+ "frame_id":146, 
+ "filename":"data/s10 r kill/frame32.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803317, "center_y":0.491889, "width":0.063948, "height":0.104509}, "confidence":0.991765}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745796, "center_y":0.903815, "width":0.063030, "height":0.128190}, "confidence":0.990933}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371727, "center_y":0.957075, "width":0.060935, "height":0.090136}, "confidence":0.987205}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686745, "center_y":0.275639, "width":0.061535, "height":0.112612}, "confidence":0.997823}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311497, "center_y":0.390992, "width":0.058757, "height":0.133267}, "confidence":0.992051}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.566920, "center_y":0.695031, "width":0.072489, "height":0.105167}, "confidence":0.993325}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196287, "center_y":0.675762, "width":0.060170, "height":0.105480}, "confidence":0.977894}
+ ] 
+}
+]

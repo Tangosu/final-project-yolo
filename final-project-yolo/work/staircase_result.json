@@ -1,0 +1,1671 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/staircase/frame24.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803943, "center_y":0.837356, "width":0.060433, "height":0.109490}, "confidence":0.993356}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369989, "center_y":0.556588, "width":0.059376, "height":0.107466}, "confidence":0.997113}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745634, "center_y":0.584885, "width":0.061910, "height":0.106648}, "confidence":0.994966}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312432, "center_y":0.790519, "width":0.060245, "height":0.108169}, "confidence":0.998675}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685874, "center_y":0.335718, "width":0.065655, "height":0.107088}, "confidence":0.998601}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253519, "center_y":0.322608, "width":0.061290, "height":0.108581}, "confidence":0.998602}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"data/staircase/frame92.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803443, "center_y":0.791345, "width":0.056191, "height":0.112018}, "confidence":0.996915}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430637, "center_y":0.515329, "width":0.064058, "height":0.110382}, "confidence":0.994154}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745495, "center_y":0.535969, "width":0.063014, "height":0.106414}, "confidence":0.998125}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686726, "center_y":0.289607, "width":0.063165, "height":0.101175}, "confidence":0.998789}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312403, "center_y":0.749631, "width":0.061540, "height":0.106571}, "confidence":0.997734}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195227, "center_y":0.283205, "width":0.057913, "height":0.099476}, "confidence":0.996666}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"data/staircase/frame113.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803907, "center_y":0.921046, "width":0.062330, "height":0.111440}, "confidence":0.988147}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744735, "center_y":0.673243, "width":0.060498, "height":0.109962}, "confidence":0.997759}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369862, "center_y":0.640024, "width":0.063092, "height":0.113199}, "confidence":0.997692}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687184, "center_y":0.421652, "width":0.064263, "height":0.107361}, "confidence":0.998160}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312345, "center_y":0.873183, "width":0.064441, "height":0.113991}, "confidence":0.998076}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252510, "center_y":0.394143, "width":0.059119, "height":0.083891}, "confidence":0.993103}
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"data/staircase/frame30.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804378, "center_y":0.300977, "width":0.059841, "height":0.111760}, "confidence":0.997189}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429979, "center_y":0.527193, "width":0.064724, "height":0.106594}, "confidence":0.993840}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744740, "center_y":0.549174, "width":0.057549, "height":0.101459}, "confidence":0.998282}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686642, "center_y":0.801307, "width":0.065401, "height":0.109948}, "confidence":0.998959}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312682, "center_y":0.291548, "width":0.063097, "height":0.104148}, "confidence":0.997696}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312560, "center_y":0.969860, "width":0.060921, "height":0.059119}, "confidence":0.990581}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195461, "center_y":0.760864, "width":0.057740, "height":0.106066}, "confidence":0.995724}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"data/staircase/frame80.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686043, "center_y":0.358296, "width":0.062857, "height":0.109017}, "confidence":0.998378}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311973, "center_y":0.579191, "width":0.059646, "height":0.108028}, "confidence":0.995639}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626067, "center_y":0.606773, "width":0.059443, "height":0.114905}, "confidence":0.995376}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253300, "center_y":0.810591, "width":0.058329, "height":0.114507}, "confidence":0.987741}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194545, "center_y":0.341946, "width":0.057545, "height":0.109875}, "confidence":0.993686}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568875, "center_y":0.855783, "width":0.064331, "height":0.108226}, "confidence":0.768022}
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"data/staircase/frame11.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195507, "center_y":0.935122, "width":0.058365, "height":0.107764}, "confidence":0.996637}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"data/staircase/frame118.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428894, "center_y":0.689303, "width":0.059141, "height":0.116536}, "confidence":0.994842}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804818, "center_y":0.481276, "width":0.056193, "height":0.103865}, "confidence":0.993501}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370523, "center_y":0.222253, "width":0.062819, "height":0.109510}, "confidence":0.998114}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745876, "center_y":0.726325, "width":0.064231, "height":0.107512}, "confidence":0.995856}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746325, "center_y":0.228066, "width":0.063346, "height":0.106507}, "confidence":0.994167}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312170, "center_y":0.454553, "width":0.065076, "height":0.112382}, "confidence":0.997324}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686203, "center_y":0.960126, "width":0.064308, "height":0.082070}, "confidence":0.995731}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195819, "center_y":0.921345, "width":0.059055, "height":0.111065}, "confidence":0.980582}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"data/staircase/frame50.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429444, "center_y":0.265367, "width":0.058822, "height":0.109199}, "confidence":0.995341}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803863, "center_y":0.523432, "width":0.059972, "height":0.109893}, "confidence":0.995269}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744229, "center_y":0.772665, "width":0.062160, "height":0.107986}, "confidence":0.996343}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744254, "center_y":0.272150, "width":0.061154, "height":0.109381}, "confidence":0.996061}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371141, "center_y":0.732082, "width":0.060177, "height":0.104951}, "confidence":0.993922}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.254239, "center_y":0.956818, "width":0.063152, "height":0.090163}, "confidence":0.961616}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312413, "center_y":0.498095, "width":0.069883, "height":0.099808}, "confidence":0.996020}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686989, "center_y":0.983840, "width":0.060705, "height":0.032137}, "confidence":0.923929}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"data/staircase/frame37.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568772, "center_y":0.680388, "width":0.057242, "height":0.112403}, "confidence":0.746059}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312901, "center_y":0.411372, "width":0.063556, "height":0.111555}, "confidence":0.999161}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312185, "center_y":0.878881, "width":0.064103, "height":0.108355}, "confidence":0.998829}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252297, "center_y":0.643225, "width":0.060376, "height":0.119499}, "confidence":0.998507}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628307, "center_y":0.927476, "width":0.058002, "height":0.109893}, "confidence":0.997191}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627228, "center_y":0.425622, "width":0.059985, "height":0.109369}, "confidence":0.997040}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194808, "center_y":0.181267, "width":0.055665, "height":0.097586}, "confidence":0.994928}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"data/staircase/frame81.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312206, "center_y":0.954954, "width":0.063722, "height":0.090545}, "confidence":0.998482}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686415, "center_y":0.266642, "width":0.065101, "height":0.106289}, "confidence":0.998034}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311720, "center_y":0.496049, "width":0.067949, "height":0.101225}, "confidence":0.997889}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626742, "center_y":0.507930, "width":0.056738, "height":0.096837}, "confidence":0.997268}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254312, "center_y":0.727617, "width":0.061985, "height":0.102157}, "confidence":0.994259}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195595, "center_y":0.259652, "width":0.058214, "height":0.110814}, "confidence":0.988052}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569600, "center_y":0.766782, "width":0.061799, "height":0.104763}, "confidence":0.947614}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"data/staircase/frame41.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686200, "center_y":0.822663, "width":0.064286, "height":0.110736}, "confidence":0.998634}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312481, "center_y":0.543704, "width":0.065542, "height":0.100610}, "confidence":0.990233}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253775, "center_y":0.310495, "width":0.061882, "height":0.110083}, "confidence":0.998478}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627597, "center_y":0.570367, "width":0.061298, "height":0.113680}, "confidence":0.970618}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569061, "center_y":0.324898, "width":0.058512, "height":0.110609}, "confidence":0.993145}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195869, "center_y":0.778507, "width":0.054421, "height":0.107784}, "confidence":0.984107}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"data/staircase/frame35.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685977, "center_y":0.355173, "width":0.063943, "height":0.096629}, "confidence":0.998792}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312070, "center_y":0.578180, "width":0.061318, "height":0.102423}, "confidence":0.995352}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625842, "center_y":0.604788, "width":0.060284, "height":0.115524}, "confidence":0.999083}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253623, "center_y":0.811160, "width":0.060831, "height":0.116993}, "confidence":0.997993}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194668, "center_y":0.342923, "width":0.058980, "height":0.111968}, "confidence":0.995953}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569975, "center_y":0.856226, "width":0.062783, "height":0.104640}, "confidence":0.972288}
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"data/staircase/frame66.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744006, "center_y":0.850934, "width":0.061841, "height":0.111665}, "confidence":0.997313}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371079, "center_y":0.805397, "width":0.062306, "height":0.107240}, "confidence":0.992322}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312437, "center_y":0.338653, "width":0.061560, "height":0.104638}, "confidence":0.998748}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686018, "center_y":0.601160, "width":0.064146, "height":0.104142}, "confidence":0.998681}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627167, "center_y":0.347722, "width":0.061949, "height":0.104185}, "confidence":0.997859}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.250584, "center_y":0.570621, "width":0.057100, "height":0.114862}, "confidence":0.995475}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"data/staircase/frame87.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429652, "center_y":0.921532, "width":0.054277, "height":0.084416}, "confidence":0.988175}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686228, "center_y":0.732948, "width":0.060944, "height":0.116013}, "confidence":0.997598}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311601, "center_y":0.458679, "width":0.059959, "height":0.104943}, "confidence":0.996380}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253792, "center_y":0.227700, "width":0.061020, "height":0.100716}, "confidence":0.996465}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.623602, "center_y":0.481277, "width":0.049306, "height":0.099900}, "confidence":0.996053}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567849, "center_y":0.235592, "width":0.058982, "height":0.101173}, "confidence":0.982028}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195777, "center_y":0.698101, "width":0.053610, "height":0.103457}, "confidence":0.878520}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"data/staircase/frame96.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804554, "center_y":0.438114, "width":0.055435, "height":0.108204}, "confidence":0.994730}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429752, "center_y":0.186116, "width":0.056364, "height":0.096042}, "confidence":0.714145}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744057, "center_y":0.184628, "width":0.063286, "height":0.110776}, "confidence":0.997583}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744647, "center_y":0.684030, "width":0.062819, "height":0.107214}, "confidence":0.997210}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371214, "center_y":0.648792, "width":0.060402, "height":0.108222}, "confidence":0.996861}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312313, "center_y":0.416598, "width":0.065425, "height":0.103418}, "confidence":0.999481}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686255, "center_y":0.934959, "width":0.064241, "height":0.111983}, "confidence":0.998772}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254272, "center_y":0.885182, "width":0.053636, "height":0.103338}, "confidence":0.882957}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.429331, "center_y":0.186025, "width":0.056023, "height":0.099086}, "confidence":0.816362}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"data/staircase/frame52.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804000, "center_y":0.344207, "width":0.055934, "height":0.113796}, "confidence":0.995532}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369899, "center_y":0.565082, "width":0.060795, "height":0.105444}, "confidence":0.996526}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745074, "center_y":0.597329, "width":0.064175, "height":0.112402}, "confidence":0.996025}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312709, "center_y":0.332915, "width":0.063177, "height":0.109961}, "confidence":0.997928}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686939, "center_y":0.844934, "width":0.063085, "height":0.110154}, "confidence":0.995560}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312722, "center_y":0.988413, "width":0.056511, "height":0.022752}, "confidence":0.955072}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252467, "center_y":0.799607, "width":0.060777, "height":0.121565}, "confidence":0.998109}
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"data/staircase/frame101.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196095, "center_y":0.935955, "width":0.057567, "height":0.102204}, "confidence":0.719263}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744256, "center_y":0.239693, "width":0.062608, "height":0.111752}, "confidence":0.998411}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371707, "center_y":0.232251, "width":0.058823, "height":0.103905}, "confidence":0.994891}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311985, "center_y":0.702025, "width":0.062201, "height":0.108251}, "confidence":0.998817}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685263, "center_y":0.490276, "width":0.069039, "height":0.109867}, "confidence":0.998459}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627536, "center_y":0.738141, "width":0.059837, "height":0.112792}, "confidence":0.998371}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253385, "center_y":0.465840, "width":0.060537, "height":0.089721}, "confidence":0.996327}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195628, "center_y":0.937605, "width":0.058192, "height":0.105085}, "confidence":0.761696}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"data/staircase/frame86.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686524, "center_y":0.823654, "width":0.062048, "height":0.111964}, "confidence":0.998530}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312138, "center_y":0.541620, "width":0.062383, "height":0.109099}, "confidence":0.962452}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253042, "center_y":0.311369, "width":0.059840, "height":0.106632}, "confidence":0.997867}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627692, "center_y":0.572013, "width":0.059970, "height":0.100901}, "confidence":0.977841}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569918, "center_y":0.324126, "width":0.062672, "height":0.101388}, "confidence":0.986965}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195869, "center_y":0.780734, "width":0.054476, "height":0.104419}, "confidence":0.980449}
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"data/staircase/frame95.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.802810, "center_y":0.524911, "width":0.055792, "height":0.110473}, "confidence":0.996107}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430487, "center_y":0.265693, "width":0.064351, "height":0.110323}, "confidence":0.993101}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744838, "center_y":0.773212, "width":0.060300, "height":0.105980}, "confidence":0.998138}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744646, "center_y":0.273210, "width":0.061356, "height":0.108709}, "confidence":0.997969}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369408, "center_y":0.733182, "width":0.059511, "height":0.109276}, "confidence":0.996292}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252893, "center_y":0.958335, "width":0.059513, "height":0.090464}, "confidence":0.955702}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312305, "center_y":0.501739, "width":0.064513, "height":0.099298}, "confidence":0.992048}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686865, "center_y":0.984186, "width":0.052930, "height":0.029527}, "confidence":0.804344}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"data/staircase/frame120.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804183, "center_y":0.299798, "width":0.060436, "height":0.112123}, "confidence":0.996988}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428505, "center_y":0.524876, "width":0.059859, "height":0.111898}, "confidence":0.995792}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747155, "center_y":0.547489, "width":0.054233, "height":0.104525}, "confidence":0.997560}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686535, "center_y":0.799986, "width":0.065943, "height":0.109522}, "confidence":0.998605}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312757, "center_y":0.290485, "width":0.062592, "height":0.108007}, "confidence":0.998495}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313835, "center_y":0.966749, "width":0.070183, "height":0.061960}, "confidence":0.933657}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195337, "center_y":0.756384, "width":0.060031, "height":0.113907}, "confidence":0.995425}
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"data/staircase/frame111.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744621, "center_y":0.849241, "width":0.060139, "height":0.112637}, "confidence":0.996595}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370327, "center_y":0.803969, "width":0.064886, "height":0.115446}, "confidence":0.996486}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252457, "center_y":0.569491, "width":0.064781, "height":0.111876}, "confidence":0.991300}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312963, "center_y":0.335992, "width":0.066301, "height":0.108928}, "confidence":0.998051}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686031, "center_y":0.599350, "width":0.062346, "height":0.108475}, "confidence":0.997842}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627234, "center_y":0.347242, "width":0.058826, "height":0.109057}, "confidence":0.994928}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"data/staircase/frame32.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430826, "center_y":0.359417, "width":0.063751, "height":0.105757}, "confidence":0.994216}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744533, "center_y":0.357459, "width":0.061191, "height":0.072233}, "confidence":0.992138}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686061, "center_y":0.625138, "width":0.065864, "height":0.099939}, "confidence":0.998933}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312305, "center_y":0.825922, "width":0.063334, "height":0.108691}, "confidence":0.998340}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626954, "center_y":0.871114, "width":0.060702, "height":0.116901}, "confidence":0.998536}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195032, "center_y":0.592064, "width":0.060890, "height":0.102687}, "confidence":0.991794}
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"data/staircase/frame90.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429020, "center_y":0.682134, "width":0.056294, "height":0.110263}, "confidence":0.997253}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803282, "center_y":0.956693, "width":0.056179, "height":0.088003}, "confidence":0.983105}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744774, "center_y":0.718753, "width":0.062559, "height":0.110184}, "confidence":0.997545}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312256, "center_y":0.914728, "width":0.062525, "height":0.108228}, "confidence":0.998418}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312720, "center_y":0.213393, "width":0.060421, "height":0.101170}, "confidence":0.997357}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685080, "center_y":0.464162, "width":0.060616, "height":0.101355}, "confidence":0.995031}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.629272, "center_y":0.218617, "width":0.059570, "height":0.096542}, "confidence":0.983180}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.192932, "center_y":0.448228, "width":0.052910, "height":0.106137}, "confidence":0.993561}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"data/staircase/frame55.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370304, "center_y":0.314523, "width":0.060526, "height":0.109147}, "confidence":0.996880}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745706, "center_y":0.328346, "width":0.060685, "height":0.102871}, "confidence":0.995559}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312500, "center_y":0.783212, "width":0.060210, "height":0.108887}, "confidence":0.998299}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685992, "center_y":0.578805, "width":0.062007, "height":0.109205}, "confidence":0.997283}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628102, "center_y":0.827873, "width":0.060901, "height":0.121524}, "confidence":0.998947}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.250481, "center_y":0.548512, "width":0.054796, "height":0.109628}, "confidence":0.998505}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196486, "center_y":0.982762, "width":0.059318, "height":0.035101}, "confidence":0.766347}
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"data/staircase/frame58.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685947, "center_y":0.311896, "width":0.064873, "height":0.108399}, "confidence":0.998896}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312476, "center_y":0.974769, "width":0.063497, "height":0.048222}, "confidence":0.974829}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311952, "center_y":0.534935, "width":0.066858, "height":0.102675}, "confidence":0.971336}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627154, "center_y":0.560102, "width":0.062567, "height":0.111760}, "confidence":0.998210}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251764, "center_y":0.301026, "width":0.060517, "height":0.110285}, "confidence":0.997421}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195703, "center_y":0.770870, "width":0.062244, "height":0.111004}, "confidence":0.970040}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569757, "center_y":0.812242, "width":0.061035, "height":0.102014}, "confidence":0.926393}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"data/staircase/frame53.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803695, "center_y":0.257705, "width":0.060387, "height":0.109486}, "confidence":0.995042}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372496, "center_y":0.482019, "width":0.058700, "height":0.102356}, "confidence":0.997342}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745873, "center_y":0.504334, "width":0.061237, "height":0.093902}, "confidence":0.996237}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685536, "center_y":0.757664, "width":0.063446, "height":0.103316}, "confidence":0.999031}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312210, "center_y":0.949049, "width":0.063841, "height":0.102592}, "confidence":0.998564}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312946, "center_y":0.250505, "width":0.062119, "height":0.105091}, "confidence":0.997890}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252324, "center_y":0.719908, "width":0.060377, "height":0.118556}, "confidence":0.994851}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627140, "center_y":0.976057, "width":0.059007, "height":0.047803}, "confidence":0.733615}
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"data/staircase/frame102.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686189, "center_y":0.406784, "width":0.064930, "height":0.116534}, "confidence":0.998842}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312077, "center_y":0.618179, "width":0.061171, "height":0.107760}, "confidence":0.998333}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626729, "center_y":0.647889, "width":0.058829, "height":0.117609}, "confidence":0.998757}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251618, "center_y":0.375667, "width":0.059711, "height":0.094882}, "confidence":0.996089}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.373669, "center_y":0.147066, "width":0.058016, "height":0.112101}, "confidence":0.860941}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195807, "center_y":0.852819, "width":0.058950, "height":0.103757}, "confidence":0.973802}
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"data/staircase/frame42.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429592, "center_y":0.921606, "width":0.053120, "height":0.088643}, "confidence":0.991745}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745650, "center_y":0.964173, "width":0.059682, "height":0.068590}, "confidence":0.963463}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685894, "center_y":0.734399, "width":0.061908, "height":0.112345}, "confidence":0.998898}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311522, "center_y":0.458976, "width":0.063068, "height":0.106521}, "confidence":0.997040}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253308, "center_y":0.228111, "width":0.060179, "height":0.101435}, "confidence":0.995097}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.623420, "center_y":0.479719, "width":0.047541, "height":0.098190}, "confidence":0.994947}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196071, "center_y":0.696946, "width":0.054143, "height":0.106676}, "confidence":0.979717}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568193, "center_y":0.235521, "width":0.062209, "height":0.109406}, "confidence":0.966769}
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"data/staircase/frame17.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568771, "center_y":0.455934, "width":0.055930, "height":0.109524}, "confidence":0.995347}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195209, "center_y":0.436926, "width":0.064007, "height":0.110001}, "confidence":0.994437}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312009, "center_y":0.670078, "width":0.062140, "height":0.107654}, "confidence":0.999031}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685790, "center_y":0.951304, "width":0.063443, "height":0.100119}, "confidence":0.998041}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252523, "center_y":0.906861, "width":0.061031, "height":0.114439}, "confidence":0.963548}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627830, "center_y":0.706234, "width":0.058234, "height":0.110448}, "confidence":0.958625}
+ ] 
+}, 
+{
+ "frame_id":30, 
+ "filename":"data/staircase/frame28.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429994, "center_y":0.691084, "width":0.057141, "height":0.109288}, "confidence":0.994229}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805475, "center_y":0.480271, "width":0.056067, "height":0.103316}, "confidence":0.991583}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370037, "center_y":0.221644, "width":0.059745, "height":0.106656}, "confidence":0.997111}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745670, "center_y":0.727775, "width":0.064797, "height":0.112891}, "confidence":0.995922}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745566, "center_y":0.227788, "width":0.065534, "height":0.103409}, "confidence":0.992900}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312032, "center_y":0.456025, "width":0.060051, "height":0.102737}, "confidence":0.997826}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687508, "center_y":0.962648, "width":0.063256, "height":0.074295}, "confidence":0.989481}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196432, "center_y":0.926584, "width":0.059635, "height":0.106695}, "confidence":0.991470}
+ ] 
+}, 
+{
+ "frame_id":31, 
+ "filename":"data/staircase/frame61.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312185, "center_y":0.284885, "width":0.060924, "height":0.104038}, "confidence":0.998617}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312609, "center_y":0.754179, "width":0.063567, "height":0.104550}, "confidence":0.998572}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627008, "center_y":0.294394, "width":0.060085, "height":0.114786}, "confidence":0.998501}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627741, "center_y":0.797186, "width":0.059099, "height":0.115943}, "confidence":0.997937}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252225, "center_y":0.966203, "width":0.060415, "height":0.066891}, "confidence":0.979002}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196009, "center_y":0.518188, "width":0.062672, "height":0.107115}, "confidence":0.960845}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569763, "center_y":0.546495, "width":0.061467, "height":0.103239}, "confidence":0.867118}
+ ] 
+}, 
+{
+ "frame_id":32, 
+ "filename":"data/staircase/frame112.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804517, "center_y":0.977316, "width":0.065813, "height":0.043966}, "confidence":0.789935}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744891, "center_y":0.761747, "width":0.064578, "height":0.113180}, "confidence":0.997355}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369539, "center_y":0.722046, "width":0.062390, "height":0.112425}, "confidence":0.996492}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.629149, "center_y":0.261300, "width":0.061130, "height":0.107039}, "confidence":0.928534}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312039, "center_y":0.950522, "width":0.066292, "height":0.102290}, "confidence":0.997673}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312947, "center_y":0.252784, "width":0.064776, "height":0.111077}, "confidence":0.996509}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687410, "center_y":0.503988, "width":0.060695, "height":0.083001}, "confidence":0.856087}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252565, "center_y":0.484607, "width":0.061565, "height":0.087889}, "confidence":0.962830}
+ ] 
+}, 
+{
+ "frame_id":33, 
+ "filename":"data/staircase/frame62.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686038, "center_y":0.952356, "width":0.065566, "height":0.098315}, "confidence":0.999078}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312297, "center_y":0.672014, "width":0.060627, "height":0.108515}, "confidence":0.999046}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312864, "center_y":0.205366, "width":0.059296, "height":0.103458}, "confidence":0.997216}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627644, "center_y":0.707348, "width":0.064073, "height":0.115496}, "confidence":0.998673}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253377, "center_y":0.905424, "width":0.061780, "height":0.116178}, "confidence":0.998277}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627687, "center_y":0.207710, "width":0.061049, "height":0.112550}, "confidence":0.994670}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194747, "center_y":0.436669, "width":0.059316, "height":0.103471}, "confidence":0.997519}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.565479, "center_y":0.456060, "width":0.048057, "height":0.107456}, "confidence":0.987613}
+ ] 
+}, 
+{
+ "frame_id":34, 
+ "filename":"data/staircase/frame82.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312504, "center_y":0.410164, "width":0.062402, "height":0.107213}, "confidence":0.999290}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312252, "center_y":0.877555, "width":0.062778, "height":0.107597}, "confidence":0.997900}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251955, "center_y":0.644043, "width":0.058352, "height":0.121699}, "confidence":0.998372}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628473, "center_y":0.926683, "width":0.058403, "height":0.109600}, "confidence":0.990192}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626931, "center_y":0.426042, "width":0.054735, "height":0.109352}, "confidence":0.980691}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194479, "center_y":0.180855, "width":0.055225, "height":0.097916}, "confidence":0.996330}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568153, "center_y":0.679389, "width":0.055671, "height":0.107342}, "confidence":0.990619}
+ ] 
+}, 
+{
+ "frame_id":35, 
+ "filename":"data/staircase/frame14.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569214, "center_y":0.723788, "width":0.058314, "height":0.109555}, "confidence":0.992670}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312188, "center_y":0.920489, "width":0.064733, "height":0.107087}, "confidence":0.998483}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628450, "center_y":0.959385, "width":0.056220, "height":0.086808}, "confidence":0.912582}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196019, "center_y":0.685274, "width":0.058013, "height":0.115183}, "confidence":0.854693}
+ ] 
+}, 
+{
+ "frame_id":36, 
+ "filename":"data/staircase/frame33.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429266, "center_y":0.275701, "width":0.064260, "height":0.106801}, "confidence":0.996590}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745932, "center_y":0.283950, "width":0.063513, "height":0.103090}, "confidence":0.993327}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312390, "center_y":0.743309, "width":0.062632, "height":0.106715}, "confidence":0.998672}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627638, "center_y":0.784012, "width":0.059560, "height":0.113987}, "confidence":0.999035}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252322, "center_y":0.962659, "width":0.055465, "height":0.075824}, "confidence":0.919249}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195407, "center_y":0.510806, "width":0.058450, "height":0.104614}, "confidence":0.994688}
+ ] 
+}, 
+{
+ "frame_id":37, 
+ "filename":"data/staircase/frame93.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803423, "center_y":0.702919, "width":0.055879, "height":0.108863}, "confidence":0.997108}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429981, "center_y":0.432716, "width":0.056676, "height":0.105033}, "confidence":0.996692}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745410, "center_y":0.450190, "width":0.062357, "height":0.110652}, "confidence":0.996882}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370424, "center_y":0.899779, "width":0.055828, "height":0.108494}, "confidence":0.995355}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746409, "center_y":0.948646, "width":0.061574, "height":0.100446}, "confidence":0.994947}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312230, "center_y":0.666081, "width":0.061824, "height":0.107723}, "confidence":0.998610}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687273, "center_y":0.202495, "width":0.062290, "height":0.098611}, "confidence":0.997272}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195661, "center_y":0.199910, "width":0.059690, "height":0.097902}, "confidence":0.995257}
+ ] 
+}, 
+{
+ "frame_id":38, 
+ "filename":"data/staircase/frame89.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428759, "center_y":0.765208, "width":0.056414, "height":0.110778}, "confidence":0.996355}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745591, "center_y":0.805273, "width":0.065682, "height":0.111761}, "confidence":0.996044}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312346, "center_y":0.298149, "width":0.061000, "height":0.105427}, "confidence":0.998241}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686445, "center_y":0.561630, "width":0.062381, "height":0.093607}, "confidence":0.997229}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312526, "center_y":0.973021, "width":0.062400, "height":0.051981}, "confidence":0.990331}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626879, "center_y":0.305736, "width":0.057868, "height":0.109909}, "confidence":0.996868}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195620, "center_y":0.530829, "width":0.053831, "height":0.104444}, "confidence":0.980741}
+ ] 
+}, 
+{
+ "frame_id":39, 
+ "filename":"data/staircase/frame126.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568708, "center_y":0.765842, "width":0.058973, "height":0.110146}, "confidence":0.996526}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.627397, "center_y":0.982021, "width":0.055974, "height":0.036850}, "confidence":0.832378}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686269, "center_y":0.266397, "width":0.066497, "height":0.106729}, "confidence":0.998199}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311388, "center_y":0.489837, "width":0.068051, "height":0.107301}, "confidence":0.998131}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311778, "center_y":0.953689, "width":0.063286, "height":0.091662}, "confidence":0.995549}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627892, "center_y":0.515664, "width":0.061166, "height":0.118012}, "confidence":0.998040}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252050, "center_y":0.726393, "width":0.062976, "height":0.117391}, "confidence":0.997129}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196127, "center_y":0.258827, "width":0.057805, "height":0.109733}, "confidence":0.990655}
+ ] 
+}, 
+{
+ "frame_id":40, 
+ "filename":"data/staircase/frame105.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312078, "center_y":0.369647, "width":0.064030, "height":0.110167}, "confidence":0.998676}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312528, "center_y":0.836101, "width":0.062604, "height":0.111227}, "confidence":0.997844}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626451, "center_y":0.375280, "width":0.058936, "height":0.099441}, "confidence":0.998005}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628925, "center_y":0.883350, "width":0.058852, "height":0.111556}, "confidence":0.907572}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195490, "center_y":0.601820, "width":0.057948, "height":0.107599}, "confidence":0.996981}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.570001, "center_y":0.632914, "width":0.063533, "height":0.106082}, "confidence":0.975234}
+ ] 
+}, 
+{
+ "frame_id":41, 
+ "filename":"data/staircase/frame115.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804115, "center_y":0.744879, "width":0.056914, "height":0.110255}, "confidence":0.994897}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430435, "center_y":0.926736, "width":0.063556, "height":0.078604}, "confidence":0.993512}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745379, "center_y":0.490201, "width":0.061857, "height":0.114858}, "confidence":0.998055}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371784, "center_y":0.472588, "width":0.060042, "height":0.097401}, "confidence":0.997294}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686160, "center_y":0.245027, "width":0.064291, "height":0.109840}, "confidence":0.998327}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312304, "center_y":0.706550, "width":0.063568, "height":0.111936}, "confidence":0.997723}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253561, "center_y":0.236308, "width":0.059899, "height":0.116221}, "confidence":0.997323}
+ ] 
+}, 
+{
+ "frame_id":42, 
+ "filename":"data/staircase/frame116.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429158, "center_y":0.858661, "width":0.057914, "height":0.109713}, "confidence":0.995452}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.802969, "center_y":0.656762, "width":0.057951, "height":0.110577}, "confidence":0.994017}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370630, "center_y":0.378695, "width":0.063061, "height":0.091310}, "confidence":0.996981}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746154, "center_y":0.396506, "width":0.056151, "height":0.083193}, "confidence":0.995875}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745281, "center_y":0.907118, "width":0.061573, "height":0.112687}, "confidence":0.995377}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312457, "center_y":0.625219, "width":0.064274, "height":0.106693}, "confidence":0.998864}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253241, "center_y":0.151514, "width":0.059237, "height":0.103116}, "confidence":0.987291}
+ ] 
+}, 
+{
+ "frame_id":43, 
+ "filename":"data/staircase/frame125.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569627, "center_y":0.856798, "width":0.059256, "height":0.108353}, "confidence":0.993720}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312222, "center_y":0.579357, "width":0.062871, "height":0.104997}, "confidence":0.998473}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685638, "center_y":0.358382, "width":0.068126, "height":0.133073}, "confidence":0.997842}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253451, "center_y":0.809746, "width":0.061292, "height":0.115431}, "confidence":0.995482}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627170, "center_y":0.605387, "width":0.061636, "height":0.114558}, "confidence":0.994820}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194771, "center_y":0.342365, "width":0.059942, "height":0.112404}, "confidence":0.996010}
+ ] 
+}, 
+{
+ "frame_id":44, 
+ "filename":"data/staircase/frame137.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803807, "center_y":0.790816, "width":0.055974, "height":0.113629}, "confidence":0.995931}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430797, "center_y":0.514604, "width":0.064182, "height":0.109239}, "confidence":0.993478}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745022, "center_y":0.536820, "width":0.062985, "height":0.112571}, "confidence":0.993921}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312265, "center_y":0.749266, "width":0.062345, "height":0.105331}, "confidence":0.998741}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686316, "center_y":0.289420, "width":0.063920, "height":0.104427}, "confidence":0.998519}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.370361, "center_y":0.964664, "width":0.058114, "height":0.067294}, "confidence":0.812994}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195247, "center_y":0.281000, "width":0.058751, "height":0.103993}, "confidence":0.992324}
+ ] 
+}, 
+{
+ "frame_id":45, 
+ "filename":"data/staircase/frame72.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429611, "center_y":0.775837, "width":0.063426, "height":0.110994}, "confidence":0.995511}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804600, "center_y":0.568331, "width":0.058082, "height":0.107811}, "confidence":0.991891}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743456, "center_y":0.815682, "width":0.061918, "height":0.113981}, "confidence":0.997438}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746560, "center_y":0.315062, "width":0.062669, "height":0.107015}, "confidence":0.995544}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371124, "center_y":0.305141, "width":0.061196, "height":0.107997}, "confidence":0.994864}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195786, "center_y":0.975648, "width":0.062099, "height":0.047370}, "confidence":0.755844}
+ ] 
+}, 
+{
+ "frame_id":46, 
+ "filename":"data/staircase/frame57.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568594, "center_y":0.903764, "width":0.057874, "height":0.111089}, "confidence":0.955504}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312313, "center_y":0.619998, "width":0.063517, "height":0.108187}, "confidence":0.998852}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686248, "center_y":0.407432, "width":0.065804, "height":0.117318}, "confidence":0.998498}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626856, "center_y":0.649525, "width":0.058176, "height":0.112519}, "confidence":0.998883}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252234, "center_y":0.360746, "width":0.055373, "height":0.056348}, "confidence":0.991048}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195677, "center_y":0.855526, "width":0.058449, "height":0.106686}, "confidence":0.996289}
+ ] 
+}, 
+{
+ "frame_id":47, 
+ "filename":"data/staircase/frame48.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803701, "center_y":0.701796, "width":0.056514, "height":0.111481}, "confidence":0.997040}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429559, "center_y":0.432264, "width":0.056565, "height":0.108122}, "confidence":0.996063}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745145, "center_y":0.452924, "width":0.064676, "height":0.118921}, "confidence":0.994354}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745937, "center_y":0.947318, "width":0.061692, "height":0.103706}, "confidence":0.992496}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370130, "center_y":0.902046, "width":0.059146, "height":0.109219}, "confidence":0.991533}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312163, "center_y":0.665838, "width":0.062925, "height":0.107206}, "confidence":0.998853}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687590, "center_y":0.201819, "width":0.061208, "height":0.104104}, "confidence":0.996143}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195687, "center_y":0.200649, "width":0.059729, "height":0.098202}, "confidence":0.993416}
+ ] 
+}, 
+{
+ "frame_id":48, 
+ "filename":"data/staircase/frame13.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312404, "center_y":0.973992, "width":0.061279, "height":0.048543}, "confidence":0.874920}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568273, "center_y":0.812567, "width":0.059533, "height":0.107180}, "confidence":0.970698}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195957, "center_y":0.768126, "width":0.057984, "height":0.110624}, "confidence":0.903795}
+ ] 
+}, 
+{
+ "frame_id":49, 
+ "filename":"data/staircase/frame94.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803408, "center_y":0.610445, "width":0.057561, "height":0.107627}, "confidence":0.996763}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429737, "center_y":0.344049, "width":0.056877, "height":0.100411}, "confidence":0.992351}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745053, "center_y":0.353918, "width":0.062490, "height":0.089043}, "confidence":0.997924}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370157, "center_y":0.815956, "width":0.058745, "height":0.108322}, "confidence":0.997628}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745233, "center_y":0.862829, "width":0.062032, "height":0.110409}, "confidence":0.997508}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311486, "center_y":0.579845, "width":0.063312, "height":0.110210}, "confidence":0.998023}
+ ] 
+}, 
+{
+ "frame_id":50, 
+ "filename":"data/staircase/frame56.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743623, "center_y":0.241001, "width":0.059558, "height":0.112257}, "confidence":0.998178}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371052, "center_y":0.233220, "width":0.060223, "height":0.105197}, "confidence":0.996671}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312674, "center_y":0.702926, "width":0.061284, "height":0.106207}, "confidence":0.998290}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685423, "center_y":0.490835, "width":0.067271, "height":0.105122}, "confidence":0.997230}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628025, "center_y":0.739286, "width":0.059803, "height":0.117403}, "confidence":0.999220}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253680, "center_y":0.465079, "width":0.060816, "height":0.094939}, "confidence":0.996781}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195914, "center_y":0.937561, "width":0.057926, "height":0.107572}, "confidence":0.968808}
+ ] 
+}, 
+{
+ "frame_id":51, 
+ "filename":"data/staircase/frame44.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428645, "center_y":0.763809, "width":0.058602, "height":0.110191}, "confidence":0.997376}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744491, "center_y":0.804425, "width":0.064470, "height":0.112167}, "confidence":0.995277}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312720, "center_y":0.295149, "width":0.065037, "height":0.108334}, "confidence":0.997833}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686384, "center_y":0.560586, "width":0.065887, "height":0.098442}, "confidence":0.997811}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312692, "center_y":0.971232, "width":0.062646, "height":0.055332}, "confidence":0.986543}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626301, "center_y":0.304876, "width":0.059138, "height":0.112564}, "confidence":0.998391}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195424, "center_y":0.530062, "width":0.058598, "height":0.110385}, "confidence":0.993591}
+ ] 
+}, 
+{
+ "frame_id":52, 
+ "filename":"data/staircase/frame27.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804055, "center_y":0.569227, "width":0.058040, "height":0.105636}, "confidence":0.995730}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429827, "center_y":0.777391, "width":0.061973, "height":0.109843}, "confidence":0.994200}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743878, "center_y":0.316836, "width":0.064656, "height":0.108983}, "confidence":0.995887}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745194, "center_y":0.815026, "width":0.062700, "height":0.109265}, "confidence":0.995810}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370772, "center_y":0.304806, "width":0.062064, "height":0.106337}, "confidence":0.995645}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311372, "center_y":0.539751, "width":0.063996, "height":0.105601}, "confidence":0.997061}
+ ] 
+}, 
+{
+ "frame_id":53, 
+ "filename":"data/staircase/frame77.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429437, "center_y":0.358647, "width":0.056836, "height":0.107783}, "confidence":0.994534}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744669, "center_y":0.364969, "width":0.060828, "height":0.085605}, "confidence":0.995443}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312226, "center_y":0.826915, "width":0.062087, "height":0.109759}, "confidence":0.998655}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685945, "center_y":0.624384, "width":0.063681, "height":0.100640}, "confidence":0.998123}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627236, "center_y":0.871874, "width":0.058443, "height":0.117464}, "confidence":0.999055}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195225, "center_y":0.592527, "width":0.059260, "height":0.100603}, "confidence":0.996271}
+ ] 
+}, 
+{
+ "frame_id":54, 
+ "filename":"data/staircase/frame106.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312532, "center_y":0.285455, "width":0.061692, "height":0.108342}, "confidence":0.998326}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312829, "center_y":0.753014, "width":0.062341, "height":0.107666}, "confidence":0.997822}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626243, "center_y":0.293867, "width":0.060188, "height":0.117880}, "confidence":0.998830}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628127, "center_y":0.794244, "width":0.057380, "height":0.117057}, "confidence":0.989518}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195219, "center_y":0.517396, "width":0.059261, "height":0.107059}, "confidence":0.996691}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568613, "center_y":0.543442, "width":0.056941, "height":0.105840}, "confidence":0.993256}
+ ] 
+}, 
+{
+ "frame_id":55, 
+ "filename":"data/staircase/frame107.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685897, "center_y":0.950753, "width":0.065411, "height":0.100149}, "confidence":0.997999}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312050, "center_y":0.670887, "width":0.062639, "height":0.107499}, "confidence":0.997748}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312780, "center_y":0.202646, "width":0.058583, "height":0.102445}, "confidence":0.840630}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627815, "center_y":0.705534, "width":0.059906, "height":0.113454}, "confidence":0.998621}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628049, "center_y":0.207506, "width":0.062399, "height":0.113840}, "confidence":0.995753}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254524, "center_y":0.904711, "width":0.059641, "height":0.099588}, "confidence":0.932250}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194408, "center_y":0.435764, "width":0.058411, "height":0.108670}, "confidence":0.998042}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.564510, "center_y":0.455192, "width":0.051907, "height":0.111200}, "confidence":0.995716}
+ ] 
+}, 
+{
+ "frame_id":56, 
+ "filename":"data/staircase/frame16.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569191, "center_y":0.545590, "width":0.056953, "height":0.109363}, "confidence":0.993942}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.194982, "center_y":0.520047, "width":0.057910, "height":0.106055}, "confidence":0.992311}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312134, "center_y":0.753482, "width":0.062617, "height":0.107641}, "confidence":0.998759}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627061, "center_y":0.793971, "width":0.058383, "height":0.114842}, "confidence":0.995220}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251977, "center_y":0.965076, "width":0.059762, "height":0.067335}, "confidence":0.826405}
+ ] 
+}, 
+{
+ "frame_id":57, 
+ "filename":"data/staircase/frame98.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803272, "center_y":0.258200, "width":0.060714, "height":0.103009}, "confidence":0.996347}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372430, "center_y":0.481643, "width":0.055335, "height":0.094520}, "confidence":0.995709}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745676, "center_y":0.503068, "width":0.057132, "height":0.099175}, "confidence":0.993067}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686096, "center_y":0.757568, "width":0.061711, "height":0.107280}, "confidence":0.998342}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312800, "center_y":0.249653, "width":0.062493, "height":0.102196}, "confidence":0.998323}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312382, "center_y":0.948878, "width":0.062959, "height":0.102510}, "confidence":0.997056}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253984, "center_y":0.718004, "width":0.059659, "height":0.102483}, "confidence":0.994963}
+ ] 
+}, 
+{
+ "frame_id":58, 
+ "filename":"data/staircase/frame47.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803489, "center_y":0.791461, "width":0.057202, "height":0.109748}, "confidence":0.995233}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429275, "center_y":0.517423, "width":0.058108, "height":0.107181}, "confidence":0.994604}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745481, "center_y":0.535945, "width":0.063684, "height":0.106660}, "confidence":0.996483}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312523, "center_y":0.748639, "width":0.062187, "height":0.108042}, "confidence":0.998663}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686035, "center_y":0.291428, "width":0.064095, "height":0.105804}, "confidence":0.998480}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.371378, "center_y":0.963615, "width":0.054006, "height":0.070445}, "confidence":0.719434}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195469, "center_y":0.283402, "width":0.058411, "height":0.101344}, "confidence":0.993321}
+ ] 
+}, 
+{
+ "frame_id":59, 
+ "filename":"data/staircase/frame114.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803227, "center_y":0.833935, "width":0.057904, "height":0.114082}, "confidence":0.997798}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371660, "center_y":0.554797, "width":0.055333, "height":0.113356}, "confidence":0.998774}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744968, "center_y":0.583356, "width":0.058661, "height":0.110294}, "confidence":0.998059}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686451, "center_y":0.333979, "width":0.064235, "height":0.102782}, "confidence":0.998763}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312337, "center_y":0.790089, "width":0.065869, "height":0.112110}, "confidence":0.997917}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252982, "center_y":0.319542, "width":0.061104, "height":0.113939}, "confidence":0.998914}
+ ] 
+}, 
+{
+ "frame_id":60, 
+ "filename":"data/staircase/frame132.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429426, "center_y":0.921364, "width":0.054677, "height":0.093822}, "confidence":0.970473}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686261, "center_y":0.732901, "width":0.057843, "height":0.109714}, "confidence":0.997391}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311482, "center_y":0.458401, "width":0.061132, "height":0.103220}, "confidence":0.995411}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626993, "center_y":0.489407, "width":0.058492, "height":0.104130}, "confidence":0.998834}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253784, "center_y":0.227261, "width":0.062284, "height":0.104467}, "confidence":0.996552}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.744275, "center_y":0.964590, "width":0.062011, "height":0.070294}, "confidence":0.881444}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569358, "center_y":0.234126, "width":0.056754, "height":0.101614}, "confidence":0.980479}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195386, "center_y":0.696102, "width":0.059719, "height":0.102982}, "confidence":0.872853}
+ ] 
+}, 
+{
+ "frame_id":61, 
+ "filename":"data/staircase/frame36.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312126, "center_y":0.491793, "width":0.068654, "height":0.102015}, "confidence":0.997777}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312568, "center_y":0.954573, "width":0.066410, "height":0.091911}, "confidence":0.997312}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686353, "center_y":0.266998, "width":0.065911, "height":0.105902}, "confidence":0.997223}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625696, "center_y":0.509916, "width":0.056404, "height":0.098955}, "confidence":0.997187}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252450, "center_y":0.727360, "width":0.058990, "height":0.117335}, "confidence":0.997002}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195858, "center_y":0.261222, "width":0.056922, "height":0.106641}, "confidence":0.995840}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569500, "center_y":0.768029, "width":0.056892, "height":0.107676}, "confidence":0.913618}
+ ] 
+}, 
+{
+ "frame_id":62, 
+ "filename":"data/staircase/frame91.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803987, "center_y":0.877512, "width":0.058651, "height":0.107742}, "confidence":0.996302}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428355, "center_y":0.599661, "width":0.057914, "height":0.109054}, "confidence":0.995149}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745257, "center_y":0.627629, "width":0.061621, "height":0.105824}, "confidence":0.998393}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312230, "center_y":0.831719, "width":0.061876, "height":0.110425}, "confidence":0.997210}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686313, "center_y":0.377530, "width":0.063586, "height":0.100102}, "confidence":0.995071}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195147, "center_y":0.365436, "width":0.059365, "height":0.106883}, "confidence":0.995616}
+ ] 
+}, 
+{
+ "frame_id":63, 
+ "filename":"data/staircase/frame100.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370832, "center_y":0.312985, "width":0.059777, "height":0.104426}, "confidence":0.996705}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746093, "center_y":0.325329, "width":0.063580, "height":0.104228}, "confidence":0.992841}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312309, "center_y":0.784129, "width":0.062033, "height":0.109132}, "confidence":0.998349}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685731, "center_y":0.579027, "width":0.061669, "height":0.102313}, "confidence":0.995391}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627925, "center_y":0.826152, "width":0.058944, "height":0.111326}, "confidence":0.996895}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253136, "center_y":0.546275, "width":0.060897, "height":0.096907}, "confidence":0.764209}
+ ] 
+}, 
+{
+ "frame_id":64, 
+ "filename":"data/staircase/frame59.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195434, "center_y":0.687997, "width":0.056010, "height":0.114650}, "confidence":0.876701}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.252612, "center_y":0.219385, "width":0.060076, "height":0.110664}, "confidence":0.826545}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312364, "center_y":0.921258, "width":0.062941, "height":0.105244}, "confidence":0.997877}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685560, "center_y":0.224372, "width":0.063572, "height":0.103230}, "confidence":0.997857}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312480, "center_y":0.452154, "width":0.061249, "height":0.110889}, "confidence":0.997706}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626393, "center_y":0.473369, "width":0.055724, "height":0.087316}, "confidence":0.997058}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628435, "center_y":0.959819, "width":0.059930, "height":0.084983}, "confidence":0.758933}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569793, "center_y":0.724075, "width":0.063772, "height":0.105649}, "confidence":0.986811}
+ ] 
+}, 
+{
+ "frame_id":65, 
+ "filename":"data/staircase/frame18.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195781, "center_y":0.355210, "width":0.062104, "height":0.106956}, "confidence":0.994911}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569455, "center_y":0.367922, "width":0.056814, "height":0.111144}, "confidence":0.994346}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628911, "center_y":0.617883, "width":0.059576, "height":0.104734}, "confidence":0.870580}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685767, "center_y":0.868795, "width":0.064387, "height":0.107652}, "confidence":0.998343}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312285, "center_y":0.589327, "width":0.061790, "height":0.108815}, "confidence":0.998051}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252560, "center_y":0.823636, "width":0.062573, "height":0.113494}, "confidence":0.991213}
+ ] 
+}, 
+{
+ "frame_id":66, 
+ "filename":"data/staircase/frame65.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568492, "center_y":0.193345, "width":0.059446, "height":0.093821}, "confidence":0.792097}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370155, "center_y":0.889126, "width":0.060386, "height":0.109634}, "confidence":0.997686}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744976, "center_y":0.941350, "width":0.060346, "height":0.112800}, "confidence":0.995205}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312417, "center_y":0.422030, "width":0.062713, "height":0.101915}, "confidence":0.998825}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686812, "center_y":0.690826, "width":0.065294, "height":0.108598}, "confidence":0.997730}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626713, "center_y":0.438858, "width":0.063294, "height":0.110228}, "confidence":0.998848}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253628, "center_y":0.655431, "width":0.060162, "height":0.106971}, "confidence":0.994496}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195101, "center_y":0.189064, "width":0.057383, "height":0.099769}, "confidence":0.989542}
+ ] 
+}, 
+{
+ "frame_id":67, 
+ "filename":"data/staircase/frame139.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429172, "center_y":0.344332, "width":0.059861, "height":0.110763}, "confidence":0.993488}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804377, "center_y":0.610569, "width":0.058834, "height":0.112728}, "confidence":0.989483}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744055, "center_y":0.860966, "width":0.062648, "height":0.108683}, "confidence":0.995841}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370715, "center_y":0.813393, "width":0.061759, "height":0.109208}, "confidence":0.995558}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745595, "center_y":0.348995, "width":0.062098, "height":0.082543}, "confidence":0.987524}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312852, "center_y":0.579493, "width":0.064251, "height":0.116440}, "confidence":0.998075}
+ ] 
+}, 
+{
+ "frame_id":68, 
+ "filename":"data/staircase/frame83.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312979, "center_y":0.328428, "width":0.061459, "height":0.104061}, "confidence":0.998378}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312591, "center_y":0.794668, "width":0.059925, "height":0.107896}, "confidence":0.997877}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625830, "center_y":0.337643, "width":0.060564, "height":0.111844}, "confidence":0.999414}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626972, "center_y":0.838087, "width":0.061972, "height":0.116456}, "confidence":0.999239}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251137, "center_y":0.561202, "width":0.057081, "height":0.114303}, "confidence":0.950171}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569741, "center_y":0.589953, "width":0.061834, "height":0.099796}, "confidence":0.991296}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195955, "center_y":0.989983, "width":0.066490, "height":0.020991}, "confidence":0.816640}
+ ] 
+}, 
+{
+ "frame_id":69, 
+ "filename":"data/staircase/frame15.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.196372, "center_y":0.605106, "width":0.060841, "height":0.111633}, "confidence":0.993950}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.570703, "center_y":0.635830, "width":0.063444, "height":0.104157}, "confidence":0.980469}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312131, "center_y":0.837491, "width":0.062212, "height":0.109921}, "confidence":0.998989}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628157, "center_y":0.882895, "width":0.057978, "height":0.114521}, "confidence":0.980372}
+ ] 
+}, 
+{
+ "frame_id":70, 
+ "filename":"data/staircase/frame103.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685841, "center_y":0.311622, "width":0.062577, "height":0.113152}, "confidence":0.998552}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312510, "center_y":0.974233, "width":0.060733, "height":0.048670}, "confidence":0.943440}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252499, "center_y":0.301199, "width":0.061159, "height":0.113724}, "confidence":0.998234}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627724, "center_y":0.557108, "width":0.059933, "height":0.102011}, "confidence":0.965835}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195902, "center_y":0.767741, "width":0.055370, "height":0.106994}, "confidence":0.917018}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569488, "center_y":0.807602, "width":0.062836, "height":0.103508}, "confidence":0.907796}
+ ] 
+}, 
+{
+ "frame_id":71, 
+ "filename":"data/staircase/frame43.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429548, "center_y":0.849588, "width":0.063766, "height":0.107589}, "confidence":0.994779}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743839, "center_y":0.894200, "width":0.060946, "height":0.110755}, "confidence":0.996783}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686295, "center_y":0.647291, "width":0.064381, "height":0.102246}, "confidence":0.999172}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311940, "center_y":0.369070, "width":0.064027, "height":0.087986}, "confidence":0.997609}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625604, "center_y":0.390393, "width":0.055859, "height":0.098668}, "confidence":0.918381}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195220, "center_y":0.612206, "width":0.058787, "height":0.111245}, "confidence":0.995167}
+ ] 
+}, 
+{
+ "frame_id":72, 
+ "filename":"data/staircase/frame110.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.570368, "center_y":0.189641, "width":0.057289, "height":0.108502}, "confidence":0.932220}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370623, "center_y":0.888607, "width":0.059558, "height":0.113779}, "confidence":0.996539}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745176, "center_y":0.939457, "width":0.060138, "height":0.110338}, "confidence":0.995122}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312099, "center_y":0.420640, "width":0.065689, "height":0.108504}, "confidence":0.998780}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686707, "center_y":0.689477, "width":0.066278, "height":0.110078}, "confidence":0.998375}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626701, "center_y":0.435890, "width":0.063181, "height":0.104991}, "confidence":0.998835}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254111, "center_y":0.652713, "width":0.062481, "height":0.105033}, "confidence":0.993347}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195039, "center_y":0.188889, "width":0.060263, "height":0.105986}, "confidence":0.994209}
+ ] 
+}, 
+{
+ "frame_id":73, 
+ "filename":"data/staircase/frame31.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.432116, "center_y":0.443819, "width":0.058376, "height":0.102065}, "confidence":0.993950}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804909, "center_y":0.215394, "width":0.059045, "height":0.097194}, "confidence":0.937656}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746761, "center_y":0.458737, "width":0.064787, "height":0.105062}, "confidence":0.987048}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.627912, "center_y":0.953774, "width":0.061436, "height":0.092739}, "confidence":0.887436}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686391, "center_y":0.713074, "width":0.064587, "height":0.106986}, "confidence":0.998896}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312862, "center_y":0.909324, "width":0.062957, "height":0.113317}, "confidence":0.998442}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312608, "center_y":0.209146, "width":0.062611, "height":0.103676}, "confidence":0.996002}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195489, "center_y":0.679203, "width":0.057316, "height":0.109080}, "confidence":0.990869}
+ ] 
+}, 
+{
+ "frame_id":74, 
+ "filename":"data/staircase/frame49.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803807, "center_y":0.610634, "width":0.058370, "height":0.108806}, "confidence":0.997945}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428668, "center_y":0.348321, "width":0.058691, "height":0.106702}, "confidence":0.994314}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370206, "center_y":0.814465, "width":0.058856, "height":0.106501}, "confidence":0.998426}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744452, "center_y":0.862572, "width":0.062904, "height":0.112272}, "confidence":0.997758}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745929, "center_y":0.356950, "width":0.063303, "height":0.092843}, "confidence":0.994451}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312128, "center_y":0.581194, "width":0.062055, "height":0.109359}, "confidence":0.999096}
+ ] 
+}, 
+{
+ "frame_id":75, 
+ "filename":"data/staircase/frame46.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803248, "center_y":0.878414, "width":0.057562, "height":0.109132}, "confidence":0.997463}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428903, "center_y":0.600169, "width":0.058159, "height":0.108028}, "confidence":0.996895}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746327, "center_y":0.628175, "width":0.063102, "height":0.108123}, "confidence":0.996001}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312034, "center_y":0.831089, "width":0.061125, "height":0.106430}, "confidence":0.998938}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686805, "center_y":0.389182, "width":0.060469, "height":0.123213}, "confidence":0.995092}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194823, "center_y":0.353788, "width":0.058108, "height":0.083854}, "confidence":0.997315}
+ ] 
+}, 
+{
+ "frame_id":76, 
+ "filename":"data/staircase/frame130.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686296, "center_y":0.911569, "width":0.064961, "height":0.107541}, "confidence":0.999006}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312110, "center_y":0.630419, "width":0.064110, "height":0.104380}, "confidence":0.998475}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627509, "center_y":0.659557, "width":0.060129, "height":0.113186}, "confidence":0.989726}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627479, "center_y":0.160644, "width":0.057641, "height":0.103565}, "confidence":0.981829}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252424, "center_y":0.364008, "width":0.056270, "height":0.052461}, "confidence":0.970449}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194881, "center_y":0.862154, "width":0.058885, "height":0.108851}, "confidence":0.997844}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568857, "center_y":0.410725, "width":0.061413, "height":0.105503}, "confidence":0.988811}
+ ] 
+}, 
+{
+ "frame_id":77, 
+ "filename":"data/staircase/frame22.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804364, "center_y":0.978865, "width":0.066548, "height":0.043349}, "confidence":0.866494}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744934, "center_y":0.761637, "width":0.063443, "height":0.114437}, "confidence":0.996598}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371088, "center_y":0.721579, "width":0.061569, "height":0.111064}, "confidence":0.996261}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686003, "center_y":0.512497, "width":0.063061, "height":0.106232}, "confidence":0.998581}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312160, "center_y":0.952455, "width":0.063125, "height":0.097771}, "confidence":0.998364}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312588, "center_y":0.253444, "width":0.063538, "height":0.102844}, "confidence":0.997567}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253502, "center_y":0.488714, "width":0.060919, "height":0.118313}, "confidence":0.998682}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626737, "center_y":0.260761, "width":0.059413, "height":0.118768}, "confidence":0.998179}
+ ] 
+}, 
+{
+ "frame_id":78, 
+ "filename":"data/staircase/frame69.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803303, "center_y":0.835167, "width":0.057379, "height":0.111219}, "confidence":0.997406}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371886, "center_y":0.552749, "width":0.055491, "height":0.105345}, "confidence":0.996878}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743360, "center_y":0.583634, "width":0.059951, "height":0.107026}, "confidence":0.994687}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312916, "center_y":0.789024, "width":0.062345, "height":0.107436}, "confidence":0.998973}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685802, "center_y":0.334972, "width":0.063911, "height":0.103325}, "confidence":0.998437}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252436, "center_y":0.319118, "width":0.062671, "height":0.107862}, "confidence":0.998985}
+ ] 
+}, 
+{
+ "frame_id":79, 
+ "filename":"data/staircase/frame19.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569509, "center_y":0.280199, "width":0.058400, "height":0.108859}, "confidence":0.992172}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195908, "center_y":0.271367, "width":0.059857, "height":0.106529}, "confidence":0.982601}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628258, "center_y":0.527701, "width":0.060965, "height":0.104752}, "confidence":0.988742}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371548, "center_y":0.959275, "width":0.060052, "height":0.080646}, "confidence":0.950471}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685423, "center_y":0.777981, "width":0.062929, "height":0.108284}, "confidence":0.998670}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312005, "center_y":0.503164, "width":0.061822, "height":0.112628}, "confidence":0.998525}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252753, "center_y":0.740412, "width":0.061331, "height":0.113240}, "confidence":0.994079}
+ ] 
+}, 
+{
+ "frame_id":80, 
+ "filename":"data/staircase/frame12.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195477, "center_y":0.853394, "width":0.060635, "height":0.105838}, "confidence":0.996175}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567977, "center_y":0.902184, "width":0.055915, "height":0.112161}, "confidence":0.988647}
+ ] 
+}, 
+{
+ "frame_id":81, 
+ "filename":"data/staircase/frame108.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686445, "center_y":0.866435, "width":0.064248, "height":0.110521}, "confidence":0.998489}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311919, "center_y":0.586713, "width":0.063021, "height":0.115886}, "confidence":0.998426}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628700, "center_y":0.616790, "width":0.061530, "height":0.112531}, "confidence":0.994693}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254221, "center_y":0.821759, "width":0.061540, "height":0.105705}, "confidence":0.990180}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195450, "center_y":0.351309, "width":0.061153, "height":0.108379}, "confidence":0.997099}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.567910, "center_y":0.368928, "width":0.059772, "height":0.106972}, "confidence":0.992225}
+ ] 
+}, 
+{
+ "frame_id":82, 
+ "filename":"data/staircase/frame99.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747075, "center_y":0.410862, "width":0.056552, "height":0.091380}, "confidence":0.997689}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370034, "center_y":0.382539, "width":0.059197, "height":0.075411}, "confidence":0.991092}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686287, "center_y":0.667026, "width":0.062238, "height":0.104758}, "confidence":0.998435}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312537, "center_y":0.867788, "width":0.060612, "height":0.110698}, "confidence":0.998104}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312222, "center_y":0.165267, "width":0.061767, "height":0.102314}, "confidence":0.992560}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252482, "center_y":0.633579, "width":0.059646, "height":0.114253}, "confidence":0.995259}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627965, "center_y":0.915483, "width":0.059505, "height":0.113233}, "confidence":0.992253}
+ ] 
+}, 
+{
+ "frame_id":83, 
+ "filename":"data/staircase/frame123.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429537, "center_y":0.274273, "width":0.063378, "height":0.110551}, "confidence":0.996281}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746194, "center_y":0.283445, "width":0.062760, "height":0.106203}, "confidence":0.993360}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312563, "center_y":0.743515, "width":0.063571, "height":0.113384}, "confidence":0.998550}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628001, "center_y":0.782799, "width":0.061082, "height":0.112471}, "confidence":0.996478}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251418, "center_y":0.959803, "width":0.060439, "height":0.081782}, "confidence":0.983000}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195001, "center_y":0.508130, "width":0.059764, "height":0.105506}, "confidence":0.997986}
+ ] 
+}, 
+{
+ "frame_id":84, 
+ "filename":"data/staircase/frame140.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429854, "center_y":0.263920, "width":0.066530, "height":0.110671}, "confidence":0.993547}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803643, "center_y":0.524640, "width":0.058553, "height":0.109151}, "confidence":0.990468}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.743728, "center_y":0.272590, "width":0.060519, "height":0.108950}, "confidence":0.997044}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746148, "center_y":0.771930, "width":0.059458, "height":0.105611}, "confidence":0.996068}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371393, "center_y":0.731374, "width":0.060627, "height":0.104079}, "confidence":0.991904}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.253741, "center_y":0.956078, "width":0.062767, "height":0.089636}, "confidence":0.962542}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311992, "center_y":0.501254, "width":0.064453, "height":0.106368}, "confidence":0.988996}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686720, "center_y":0.983498, "width":0.061707, "height":0.032710}, "confidence":0.901336}
+ ] 
+}, 
+{
+ "frame_id":85, 
+ "filename":"data/staircase/frame38.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.194552, "center_y":0.988040, "width":0.062811, "height":0.023845}, "confidence":0.805226}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312264, "center_y":0.794343, "width":0.061066, "height":0.105945}, "confidence":0.998775}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312584, "center_y":0.327168, "width":0.062806, "height":0.107477}, "confidence":0.997913}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626653, "center_y":0.336804, "width":0.060060, "height":0.114476}, "confidence":0.999250}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627543, "center_y":0.838061, "width":0.060762, "height":0.117993}, "confidence":0.998940}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252453, "center_y":0.560597, "width":0.062105, "height":0.115493}, "confidence":0.994446}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569989, "center_y":0.589104, "width":0.062025, "height":0.106707}, "confidence":0.774515}
+ ] 
+}, 
+{
+ "frame_id":86, 
+ "filename":"data/staircase/frame73.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429280, "center_y":0.690591, "width":0.058253, "height":0.107111}, "confidence":0.994639}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804262, "center_y":0.481218, "width":0.055549, "height":0.106672}, "confidence":0.994083}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370553, "center_y":0.220386, "width":0.061004, "height":0.108941}, "confidence":0.997463}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746022, "center_y":0.725699, "width":0.064166, "height":0.106975}, "confidence":0.995939}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746601, "center_y":0.226592, "width":0.063363, "height":0.102782}, "confidence":0.994176}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312448, "center_y":0.453204, "width":0.060847, "height":0.106851}, "confidence":0.998409}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686051, "center_y":0.960205, "width":0.065351, "height":0.082846}, "confidence":0.990863}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196814, "center_y":0.924576, "width":0.061037, "height":0.107346}, "confidence":0.986896}
+ ] 
+}, 
+{
+ "frame_id":87, 
+ "filename":"data/staircase/frame75.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804535, "center_y":0.299640, "width":0.059597, "height":0.109964}, "confidence":0.995555}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429692, "center_y":0.524187, "width":0.063250, "height":0.109686}, "confidence":0.994897}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744254, "center_y":0.546855, "width":0.053772, "height":0.105735}, "confidence":0.997298}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687007, "center_y":0.800677, "width":0.063735, "height":0.111759}, "confidence":0.999153}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312853, "center_y":0.290911, "width":0.060711, "height":0.106587}, "confidence":0.998304}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313513, "center_y":0.966863, "width":0.065086, "height":0.061919}, "confidence":0.799935}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195694, "center_y":0.757213, "width":0.056792, "height":0.111940}, "confidence":0.990569}
+ ] 
+}, 
+{
+ "frame_id":88, 
+ "filename":"data/staircase/frame26.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.802952, "center_y":0.657761, "width":0.056543, "height":0.109576}, "confidence":0.995921}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429994, "center_y":0.857766, "width":0.059689, "height":0.107220}, "confidence":0.890685}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744541, "center_y":0.905753, "width":0.063221, "height":0.112136}, "confidence":0.995568}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747839, "center_y":0.388686, "width":0.053557, "height":0.074376}, "confidence":0.990727}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372520, "center_y":0.379221, "width":0.053284, "height":0.085598}, "confidence":0.987425}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311663, "center_y":0.621661, "width":0.061241, "height":0.105102}, "confidence":0.998918}
+ ] 
+}, 
+{
+ "frame_id":89, 
+ "filename":"data/staircase/frame88.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430065, "center_y":0.848222, "width":0.062118, "height":0.107467}, "confidence":0.994824}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744950, "center_y":0.894306, "width":0.060748, "height":0.114046}, "confidence":0.990082}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686544, "center_y":0.646787, "width":0.062418, "height":0.101912}, "confidence":0.998826}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312917, "center_y":0.379512, "width":0.061819, "height":0.099799}, "confidence":0.998795}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252796, "center_y":0.145827, "width":0.058374, "height":0.101221}, "confidence":0.955223}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626020, "center_y":0.371713, "width":0.056403, "height":0.050275}, "confidence":0.946193}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195881, "center_y":0.613290, "width":0.061958, "height":0.102771}, "confidence":0.986346}
+ ] 
+}, 
+{
+ "frame_id":90, 
+ "filename":"data/staircase/frame121.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430783, "center_y":0.441285, "width":0.065048, "height":0.109118}, "confidence":0.992066}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804732, "center_y":0.213545, "width":0.060169, "height":0.098111}, "confidence":0.982959}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746831, "center_y":0.458950, "width":0.063600, "height":0.107130}, "confidence":0.990130}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686564, "center_y":0.711404, "width":0.063934, "height":0.105853}, "confidence":0.998234}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312584, "center_y":0.908556, "width":0.063797, "height":0.114577}, "confidence":0.997826}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311990, "center_y":0.209526, "width":0.062033, "height":0.103525}, "confidence":0.987770}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626495, "center_y":0.952457, "width":0.061403, "height":0.099315}, "confidence":0.997432}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195029, "center_y":0.675016, "width":0.059322, "height":0.111113}, "confidence":0.994594}
+ ] 
+}, 
+{
+ "frame_id":91, 
+ "filename":"data/staircase/frame104.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628426, "center_y":0.958763, "width":0.060817, "height":0.087448}, "confidence":0.936070}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686053, "center_y":0.224033, "width":0.065219, "height":0.106232}, "confidence":0.998070}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312139, "center_y":0.920118, "width":0.066499, "height":0.108072}, "confidence":0.997476}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312345, "center_y":0.450420, "width":0.065793, "height":0.113118}, "confidence":0.997461}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627878, "center_y":0.472555, "width":0.058494, "height":0.095754}, "confidence":0.996865}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253653, "center_y":0.217331, "width":0.059408, "height":0.102378}, "confidence":0.994089}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195442, "center_y":0.685372, "width":0.055180, "height":0.108254}, "confidence":0.963849}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569863, "center_y":0.721887, "width":0.062892, "height":0.106458}, "confidence":0.954426}
+ ] 
+}, 
+{
+ "frame_id":92, 
+ "filename":"data/staircase/frame85.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686732, "center_y":0.911799, "width":0.063158, "height":0.109209}, "confidence":0.999019}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311933, "center_y":0.630022, "width":0.062302, "height":0.108812}, "confidence":0.998835}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627038, "center_y":0.161548, "width":0.055111, "height":0.107160}, "confidence":0.996601}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252720, "center_y":0.393492, "width":0.059394, "height":0.104499}, "confidence":0.996343}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627644, "center_y":0.660876, "width":0.058654, "height":0.112788}, "confidence":0.995514}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569939, "center_y":0.412653, "width":0.062600, "height":0.100778}, "confidence":0.989707}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196294, "center_y":0.862884, "width":0.062863, "height":0.104715}, "confidence":0.967696}
+ ] 
+}, 
+{
+ "frame_id":93, 
+ "filename":"data/staircase/frame68.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804071, "center_y":0.925724, "width":0.063731, "height":0.106010}, "confidence":0.992384}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.369956, "center_y":0.640691, "width":0.062574, "height":0.111003}, "confidence":0.997077}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744747, "center_y":0.673966, "width":0.062637, "height":0.113563}, "confidence":0.994742}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.688068, "center_y":0.424066, "width":0.055844, "height":0.107128}, "confidence":0.998876}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312735, "center_y":0.874934, "width":0.062738, "height":0.112116}, "confidence":0.998617}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312509, "center_y":0.173055, "width":0.060725, "height":0.099358}, "confidence":0.996464}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252207, "center_y":0.387018, "width":0.054404, "height":0.061178}, "confidence":0.988093}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628966, "center_y":0.173973, "width":0.056546, "height":0.101786}, "confidence":0.858353}
+ ] 
+}, 
+{
+ "frame_id":94, 
+ "filename":"data/staircase/frame23.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803770, "center_y":0.920785, "width":0.058270, "height":0.110730}, "confidence":0.989211}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371204, "center_y":0.637773, "width":0.061365, "height":0.109768}, "confidence":0.995940}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744037, "center_y":0.672706, "width":0.061390, "height":0.113252}, "confidence":0.992372}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686943, "center_y":0.420780, "width":0.064387, "height":0.105031}, "confidence":0.998948}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312376, "center_y":0.872998, "width":0.062124, "height":0.110200}, "confidence":0.998943}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627360, "center_y":0.171352, "width":0.057375, "height":0.105507}, "confidence":0.987170}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252580, "center_y":0.375514, "width":0.057689, "height":0.047179}, "confidence":0.926987}
+ ] 
+}, 
+{
+ "frame_id":95, 
+ "filename":"data/staircase/frame79.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.431560, "center_y":0.193655, "width":0.060969, "height":0.099114}, "confidence":0.987824}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745141, "center_y":0.194221, "width":0.058201, "height":0.106645}, "confidence":0.978926}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686913, "center_y":0.442440, "width":0.063427, "height":0.104120}, "confidence":0.998477}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311883, "center_y":0.658643, "width":0.060535, "height":0.105373}, "confidence":0.998450}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253565, "center_y":0.895778, "width":0.059308, "height":0.116567}, "confidence":0.995009}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627834, "center_y":0.694153, "width":0.061972, "height":0.115652}, "confidence":0.994995}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195266, "center_y":0.424554, "width":0.056482, "height":0.104565}, "confidence":0.990305}
+ ] 
+}, 
+{
+ "frame_id":96, 
+ "filename":"data/staircase/frame97.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803780, "center_y":0.343789, "width":0.054912, "height":0.107488}, "confidence":0.996081}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745369, "center_y":0.596933, "width":0.060418, "height":0.107728}, "confidence":0.998549}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370131, "center_y":0.566119, "width":0.060233, "height":0.113255}, "confidence":0.997046}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312564, "center_y":0.331780, "width":0.062435, "height":0.104106}, "confidence":0.998621}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686940, "center_y":0.844404, "width":0.065170, "height":0.105624}, "confidence":0.996862}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312142, "center_y":0.990815, "width":0.054957, "height":0.019405}, "confidence":0.902370}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253735, "center_y":0.801228, "width":0.060428, "height":0.105767}, "confidence":0.993502}
+ ] 
+}, 
+{
+ "frame_id":97, 
+ "filename":"data/staircase/frame67.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744599, "center_y":0.761172, "width":0.064867, "height":0.113869}, "confidence":0.996313}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370804, "center_y":0.721855, "width":0.062631, "height":0.110885}, "confidence":0.995400}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312116, "center_y":0.951403, "width":0.064001, "height":0.099820}, "confidence":0.997926}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312576, "center_y":0.252754, "width":0.061258, "height":0.104971}, "confidence":0.996245}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686045, "center_y":0.509000, "width":0.060155, "height":0.099121}, "confidence":0.996131}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627411, "center_y":0.263998, "width":0.057852, "height":0.117454}, "confidence":0.998635}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.249504, "center_y":0.481757, "width":0.052913, "height":0.103053}, "confidence":0.997764}
+ ] 
+}, 
+{
+ "frame_id":98, 
+ "filename":"data/staircase/frame40.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686588, "center_y":0.912979, "width":0.063316, "height":0.110886}, "confidence":0.998831}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312772, "center_y":0.632351, "width":0.063781, "height":0.104698}, "confidence":0.998442}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628040, "center_y":0.661638, "width":0.060956, "height":0.111647}, "confidence":0.998483}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627078, "center_y":0.161388, "width":0.055953, "height":0.106753}, "confidence":0.994765}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252386, "center_y":0.363900, "width":0.056914, "height":0.049641}, "confidence":0.737375}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195509, "center_y":0.863465, "width":0.058715, "height":0.110097}, "confidence":0.995565}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568549, "center_y":0.413671, "width":0.058958, "height":0.109329}, "confidence":0.993986}
+ ] 
+}, 
+{
+ "frame_id":99, 
+ "filename":"data/staircase/frame20.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.570312, "center_y":0.189797, "width":0.063857, "height":0.107732}, "confidence":0.984388}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370673, "center_y":0.888266, "width":0.056139, "height":0.104688}, "confidence":0.992907}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746278, "center_y":0.938056, "width":0.063082, "height":0.106695}, "confidence":0.902223}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312052, "center_y":0.417213, "width":0.065218, "height":0.096497}, "confidence":0.999072}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685606, "center_y":0.688768, "width":0.066688, "height":0.105040}, "confidence":0.998949}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626961, "center_y":0.438864, "width":0.059974, "height":0.110252}, "confidence":0.990476}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253300, "center_y":0.655545, "width":0.060824, "height":0.113305}, "confidence":0.977870}
+ ] 
+}, 
+{
+ "frame_id":100, 
+ "filename":"data/staircase/frame63.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312426, "center_y":0.586935, "width":0.062733, "height":0.107643}, "confidence":0.999025}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686849, "center_y":0.869047, "width":0.063600, "height":0.109229}, "confidence":0.998408}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252542, "center_y":0.822398, "width":0.060394, "height":0.113709}, "confidence":0.998575}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628388, "center_y":0.616823, "width":0.062331, "height":0.108212}, "confidence":0.996853}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195550, "center_y":0.353763, "width":0.059182, "height":0.100150}, "confidence":0.998150}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569755, "center_y":0.368368, "width":0.060357, "height":0.101579}, "confidence":0.981794}
+ ] 
+}, 
+{
+ "frame_id":101, 
+ "filename":"data/staircase/frame39.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312786, "center_y":0.712982, "width":0.062644, "height":0.108241}, "confidence":0.997877}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312730, "center_y":0.245543, "width":0.063018, "height":0.105145}, "confidence":0.997382}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687053, "center_y":0.972957, "width":0.066019, "height":0.052379}, "confidence":0.979066}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627483, "center_y":0.749930, "width":0.061436, "height":0.113221}, "confidence":0.998893}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.250539, "center_y":0.477135, "width":0.053377, "height":0.093661}, "confidence":0.996842}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627945, "center_y":0.250517, "width":0.060539, "height":0.111727}, "confidence":0.996588}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569141, "center_y":0.502421, "width":0.061034, "height":0.101779}, "confidence":0.991718}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195268, "center_y":0.945393, "width":0.060343, "height":0.106564}, "confidence":0.956209}
+ ] 
+}, 
+{
+ "frame_id":102, 
+ "filename":"data/staircase/frame45.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429163, "center_y":0.683423, "width":0.057010, "height":0.109934}, "confidence":0.998276}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.802886, "center_y":0.956828, "width":0.056026, "height":0.089271}, "confidence":0.991179}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744379, "center_y":0.718343, "width":0.063430, "height":0.113241}, "confidence":0.997150}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312030, "center_y":0.915775, "width":0.062699, "height":0.108492}, "confidence":0.998857}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685979, "center_y":0.465489, "width":0.060912, "height":0.107872}, "confidence":0.996216}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312974, "center_y":0.215028, "width":0.061894, "height":0.099039}, "confidence":0.995684}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628498, "center_y":0.219733, "width":0.058249, "height":0.107880}, "confidence":0.980061}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.192812, "center_y":0.448711, "width":0.054659, "height":0.106108}, "confidence":0.994364}
+ ] 
+}, 
+{
+ "frame_id":103, 
+ "filename":"data/staircase/frame10.jpg", 
+ "objects": [ 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.196599, "center_y":0.982984, "width":0.059678, "height":0.035185}, "confidence":0.900336}
+ ] 
+}, 
+{
+ "frame_id":104, 
+ "filename":"data/staircase/frame129.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312096, "center_y":0.711258, "width":0.062550, "height":0.109245}, "confidence":0.997881}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312295, "center_y":0.243804, "width":0.064674, "height":0.104161}, "confidence":0.997809}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687249, "center_y":0.972445, "width":0.065458, "height":0.052684}, "confidence":0.981900}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627297, "center_y":0.248196, "width":0.060869, "height":0.112036}, "confidence":0.998432}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251111, "center_y":0.479441, "width":0.054655, "height":0.093078}, "confidence":0.997068}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627836, "center_y":0.751118, "width":0.059348, "height":0.116407}, "confidence":0.995553}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195276, "center_y":0.944924, "width":0.058613, "height":0.107430}, "confidence":0.995568}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568115, "center_y":0.505390, "width":0.056801, "height":0.097499}, "confidence":0.978396}
+ ] 
+}, 
+{
+ "frame_id":105, 
+ "filename":"data/staircase/frame76.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.431339, "center_y":0.441489, "width":0.060345, "height":0.105155}, "confidence":0.992679}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746967, "center_y":0.458900, "width":0.062207, "height":0.101832}, "confidence":0.990349}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312216, "center_y":0.909309, "width":0.062138, "height":0.109913}, "confidence":0.998955}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686599, "center_y":0.711999, "width":0.062778, "height":0.108952}, "confidence":0.998115}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312203, "center_y":0.208295, "width":0.062303, "height":0.102666}, "confidence":0.997755}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628441, "center_y":0.952287, "width":0.063198, "height":0.100779}, "confidence":0.997747}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195104, "center_y":0.675674, "width":0.056709, "height":0.106879}, "confidence":0.990870}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.804847, "center_y":0.213891, "width":0.055066, "height":0.102510}, "confidence":0.978879}
+ ] 
+}, 
+{
+ "frame_id":106, 
+ "filename":"data/staircase/frame21.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744635, "center_y":0.850342, "width":0.062049, "height":0.108002}, "confidence":0.997266}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371290, "center_y":0.805255, "width":0.061352, "height":0.106041}, "confidence":0.992373}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311993, "center_y":0.337196, "width":0.062702, "height":0.106075}, "confidence":0.998802}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686108, "center_y":0.602610, "width":0.064832, "height":0.104398}, "confidence":0.998234}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311511, "center_y":0.993570, "width":0.056823, "height":0.012475}, "confidence":0.776201}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627404, "center_y":0.347646, "width":0.059781, "height":0.106698}, "confidence":0.996775}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253560, "center_y":0.571480, "width":0.060722, "height":0.103511}, "confidence":0.993963}
+ ] 
+}, 
+{
+ "frame_id":107, 
+ "filename":"data/staircase/frame134.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.427878, "center_y":0.763670, "width":0.058252, "height":0.108091}, "confidence":0.996746}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744918, "center_y":0.804639, "width":0.064197, "height":0.112682}, "confidence":0.995755}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312320, "center_y":0.296241, "width":0.059123, "height":0.103612}, "confidence":0.998654}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312741, "center_y":0.971790, "width":0.061934, "height":0.053801}, "confidence":0.986917}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686812, "center_y":0.551445, "width":0.062918, "height":0.110977}, "confidence":0.986567}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626816, "center_y":0.305224, "width":0.058631, "height":0.110370}, "confidence":0.997972}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195422, "center_y":0.529493, "width":0.054631, "height":0.104000}, "confidence":0.987334}
+ ] 
+}, 
+{
+ "frame_id":108, 
+ "filename":"data/staircase/frame124.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.431551, "center_y":0.193915, "width":0.059413, "height":0.100951}, "confidence":0.989666}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569939, "center_y":0.933991, "width":0.055905, "height":0.089416}, "confidence":0.804603}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744622, "center_y":0.196010, "width":0.061150, "height":0.100359}, "confidence":0.955665}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312490, "center_y":0.658204, "width":0.063176, "height":0.110328}, "confidence":0.997812}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686514, "center_y":0.446848, "width":0.068253, "height":0.113496}, "confidence":0.997337}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252684, "center_y":0.893068, "width":0.061543, "height":0.117796}, "confidence":0.998345}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627277, "center_y":0.693922, "width":0.064646, "height":0.117961}, "confidence":0.994605}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195573, "center_y":0.425093, "width":0.056790, "height":0.107876}, "confidence":0.995040}
+ ] 
+}, 
+{
+ "frame_id":109, 
+ "filename":"data/staircase/frame128.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628368, "center_y":0.837793, "width":0.062168, "height":0.107268}, "confidence":0.986991}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312688, "center_y":0.794676, "width":0.061136, "height":0.105281}, "confidence":0.998845}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312840, "center_y":0.327207, "width":0.062811, "height":0.105324}, "confidence":0.998479}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626638, "center_y":0.338620, "width":0.059668, "height":0.112301}, "confidence":0.999093}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.251213, "center_y":0.561596, "width":0.058656, "height":0.118623}, "confidence":0.998290}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.197112, "center_y":0.988883, "width":0.060878, "height":0.023641}, "confidence":0.853299}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569807, "center_y":0.588075, "width":0.062511, "height":0.104408}, "confidence":0.837321}
+ ] 
+}, 
+{
+ "frame_id":110, 
+ "filename":"data/staircase/frame131.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686910, "center_y":0.821852, "width":0.059390, "height":0.103228}, "confidence":0.998454}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312305, "center_y":0.543021, "width":0.066326, "height":0.102441}, "confidence":0.969401}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627145, "center_y":0.570892, "width":0.058956, "height":0.113714}, "confidence":0.998947}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253821, "center_y":0.310292, "width":0.060425, "height":0.106931}, "confidence":0.998235}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568886, "center_y":0.325166, "width":0.055432, "height":0.105486}, "confidence":0.994157}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195160, "center_y":0.780131, "width":0.059570, "height":0.106370}, "confidence":0.990553}
+ ] 
+}, 
+{
+ "frame_id":111, 
+ "filename":"data/staircase/frame84.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313157, "center_y":0.713939, "width":0.062412, "height":0.108392}, "confidence":0.997520}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312645, "center_y":0.244516, "width":0.062357, "height":0.104479}, "confidence":0.996402}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.687001, "center_y":0.972545, "width":0.066945, "height":0.054034}, "confidence":0.991529}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627051, "center_y":0.250678, "width":0.059817, "height":0.112192}, "confidence":0.998488}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627330, "center_y":0.750720, "width":0.058674, "height":0.113547}, "confidence":0.996790}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.250458, "center_y":0.477062, "width":0.051449, "height":0.091160}, "confidence":0.995899}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195594, "center_y":0.945901, "width":0.057798, "height":0.104718}, "confidence":0.991043}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569949, "center_y":0.503942, "width":0.062450, "height":0.098897}, "confidence":0.983577}
+ ] 
+}, 
+{
+ "frame_id":112, 
+ "filename":"data/staircase/frame119.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803921, "center_y":0.389702, "width":0.058476, "height":0.109416}, "confidence":0.994446}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429913, "center_y":0.607308, "width":0.065013, "height":0.112608}, "confidence":0.992549}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744614, "center_y":0.640064, "width":0.062110, "height":0.111576}, "confidence":0.996280}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686165, "center_y":0.889205, "width":0.063536, "height":0.111248}, "confidence":0.998483}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312049, "center_y":0.369867, "width":0.064578, "height":0.099107}, "confidence":0.998241}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195488, "center_y":0.839869, "width":0.055598, "height":0.110221}, "confidence":0.985422}
+ ] 
+}, 
+{
+ "frame_id":113, 
+ "filename":"data/staircase/frame127.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.569307, "center_y":0.676029, "width":0.061508, "height":0.108243}, "confidence":0.924926}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.628466, "center_y":0.925832, "width":0.059940, "height":0.107772}, "confidence":0.985402}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312308, "center_y":0.410507, "width":0.063442, "height":0.108406}, "confidence":0.999085}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312306, "center_y":0.877319, "width":0.064542, "height":0.108585}, "confidence":0.997845}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252692, "center_y":0.644317, "width":0.061745, "height":0.124485}, "confidence":0.998927}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626527, "center_y":0.421506, "width":0.058488, "height":0.093476}, "confidence":0.991942}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194696, "center_y":0.180876, "width":0.056321, "height":0.095156}, "confidence":0.994186}
+ ] 
+}, 
+{
+ "frame_id":114, 
+ "filename":"data/staircase/frame135.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428666, "center_y":0.680562, "width":0.058158, "height":0.109174}, "confidence":0.997125}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804875, "center_y":0.957554, "width":0.064620, "height":0.089014}, "confidence":0.989205}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745335, "center_y":0.716304, "width":0.061688, "height":0.105605}, "confidence":0.994853}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312104, "center_y":0.914369, "width":0.062403, "height":0.107849}, "confidence":0.998461}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313127, "center_y":0.212264, "width":0.058572, "height":0.105419}, "confidence":0.997536}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686028, "center_y":0.464120, "width":0.059921, "height":0.112699}, "confidence":0.992264}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628350, "center_y":0.218487, "width":0.061062, "height":0.109197}, "confidence":0.977936}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.193005, "center_y":0.447513, "width":0.052916, "height":0.110993}, "confidence":0.988526}
+ ] 
+}, 
+{
+ "frame_id":115, 
+ "filename":"data/staircase/frame70.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804206, "center_y":0.746248, "width":0.056786, "height":0.113567}, "confidence":0.995036}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430738, "center_y":0.927568, "width":0.063618, "height":0.073972}, "confidence":0.984143}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745569, "center_y":0.489748, "width":0.058942, "height":0.102494}, "confidence":0.997308}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.372632, "center_y":0.471794, "width":0.062145, "height":0.090304}, "confidence":0.996389}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312022, "center_y":0.706048, "width":0.063801, "height":0.108752}, "confidence":0.998970}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686459, "center_y":0.244086, "width":0.061529, "height":0.106215}, "confidence":0.998098}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253894, "center_y":0.235971, "width":0.060725, "height":0.101733}, "confidence":0.987948}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.743389, "center_y":0.968090, "width":0.063952, "height":0.061099}, "confidence":0.750721}
+ ] 
+}, 
+{
+ "frame_id":116, 
+ "filename":"data/staircase/frame29.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428997, "center_y":0.607627, "width":0.060577, "height":0.109057}, "confidence":0.994547}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804018, "center_y":0.390253, "width":0.059431, "height":0.110424}, "confidence":0.993153}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744769, "center_y":0.638280, "width":0.063222, "height":0.105868}, "confidence":0.996869}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686554, "center_y":0.888991, "width":0.063685, "height":0.112285}, "confidence":0.998508}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312117, "center_y":0.373763, "width":0.061642, "height":0.107485}, "confidence":0.996803}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195628, "center_y":0.840640, "width":0.060632, "height":0.115146}, "confidence":0.995123}
+ ] 
+}, 
+{
+ "frame_id":117, 
+ "filename":"data/staircase/frame117.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804325, "center_y":0.566707, "width":0.058450, "height":0.114778}, "confidence":0.995304}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428692, "center_y":0.774567, "width":0.059929, "height":0.113314}, "confidence":0.994184}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.195330, "center_y":0.975619, "width":0.064265, "height":0.049006}, "confidence":0.859134}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744048, "center_y":0.814433, "width":0.064842, "height":0.109728}, "confidence":0.997383}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746019, "center_y":0.314386, "width":0.062099, "height":0.102927}, "confidence":0.996300}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.371056, "center_y":0.304514, "width":0.062046, "height":0.107386}, "confidence":0.994188}
+ ] 
+}, 
+{
+ "frame_id":118, 
+ "filename":"data/staircase/frame60.jpg", 
+ "objects": [ 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312577, "center_y":0.836271, "width":0.061323, "height":0.107898}, "confidence":0.999077}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312018, "center_y":0.360031, "width":0.063588, "height":0.089698}, "confidence":0.998479}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625077, "center_y":0.370823, "width":0.054287, "height":0.085801}, "confidence":0.978917}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.629088, "center_y":0.883283, "width":0.060204, "height":0.109439}, "confidence":0.913056}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195640, "center_y":0.605690, "width":0.059461, "height":0.109252}, "confidence":0.976363}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.569920, "center_y":0.633632, "width":0.063686, "height":0.102488}, "confidence":0.939733}
+ ] 
+}, 
+{
+ "frame_id":119, 
+ "filename":"data/staircase/frame136.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804325, "center_y":0.876190, "width":0.057405, "height":0.115396}, "confidence":0.997429}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429125, "center_y":0.598077, "width":0.058507, "height":0.107974}, "confidence":0.995150}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745941, "center_y":0.627913, "width":0.064058, "height":0.106077}, "confidence":0.993885}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312369, "center_y":0.830316, "width":0.063717, "height":0.105468}, "confidence":0.998389}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685572, "center_y":0.360660, "width":0.063821, "height":0.072112}, "confidence":0.997592}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195074, "center_y":0.353161, "width":0.057948, "height":0.086393}, "confidence":0.996648}
+ ] 
+}, 
+{
+ "frame_id":120, 
+ "filename":"data/staircase/frame133.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430175, "center_y":0.848216, "width":0.062961, "height":0.105870}, "confidence":0.989879}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744160, "center_y":0.894817, "width":0.062000, "height":0.110447}, "confidence":0.996709}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686433, "center_y":0.643819, "width":0.062864, "height":0.106616}, "confidence":0.998563}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311800, "center_y":0.380392, "width":0.064096, "height":0.109874}, "confidence":0.993766}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628076, "center_y":0.381482, "width":0.058305, "height":0.072838}, "confidence":0.974755}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195344, "center_y":0.612423, "width":0.055124, "height":0.108783}, "confidence":0.985034}
+ ] 
+}, 
+{
+ "frame_id":121, 
+ "filename":"data/staircase/frame74.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.428299, "center_y":0.606366, "width":0.058424, "height":0.110383}, "confidence":0.994365}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.805270, "center_y":0.387514, "width":0.062432, "height":0.105143}, "confidence":0.991403}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745765, "center_y":0.637479, "width":0.061209, "height":0.106190}, "confidence":0.995740}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686619, "center_y":0.887779, "width":0.060561, "height":0.109014}, "confidence":0.998675}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312509, "center_y":0.379704, "width":0.061826, "height":0.113649}, "confidence":0.993686}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195128, "center_y":0.840500, "width":0.058361, "height":0.108179}, "confidence":0.987819}
+ ] 
+}, 
+{
+ "frame_id":122, 
+ "filename":"data/staircase/frame51.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804411, "center_y":0.437135, "width":0.057710, "height":0.110910}, "confidence":0.995025}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430730, "center_y":0.186290, "width":0.061246, "height":0.100082}, "confidence":0.987200}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745992, "center_y":0.682255, "width":0.062480, "height":0.105306}, "confidence":0.996312}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370346, "center_y":0.649740, "width":0.061179, "height":0.111523}, "confidence":0.995895}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744759, "center_y":0.184410, "width":0.063975, "height":0.113897}, "confidence":0.989084}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311578, "center_y":0.415926, "width":0.064671, "height":0.109162}, "confidence":0.999559}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686442, "center_y":0.934999, "width":0.062763, "height":0.113165}, "confidence":0.998748}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252953, "center_y":0.883108, "width":0.060520, "height":0.110753}, "confidence":0.990852}
+ ] 
+}, 
+{
+ "frame_id":123, 
+ "filename":"data/staircase/frame109.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370215, "center_y":0.958924, "width":0.059527, "height":0.083241}, "confidence":0.993102}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686448, "center_y":0.777133, "width":0.063150, "height":0.112516}, "confidence":0.998626}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312722, "center_y":0.501988, "width":0.066129, "height":0.099198}, "confidence":0.988650}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626218, "center_y":0.520033, "width":0.056912, "height":0.106365}, "confidence":0.997878}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253365, "center_y":0.738565, "width":0.060703, "height":0.113583}, "confidence":0.994010}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568020, "center_y":0.279738, "width":0.056305, "height":0.105519}, "confidence":0.993259}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195859, "center_y":0.267248, "width":0.061637, "height":0.114569}, "confidence":0.990383}
+ ] 
+}, 
+{
+ "frame_id":124, 
+ "filename":"data/staircase/frame138.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429074, "center_y":0.430938, "width":0.059237, "height":0.109103}, "confidence":0.996380}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804174, "center_y":0.700866, "width":0.057251, "height":0.111534}, "confidence":0.994983}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745588, "center_y":0.946837, "width":0.062441, "height":0.101495}, "confidence":0.995058}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745590, "center_y":0.448395, "width":0.062798, "height":0.105941}, "confidence":0.994034}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370567, "center_y":0.898712, "width":0.058409, "height":0.113248}, "confidence":0.993672}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312573, "center_y":0.666198, "width":0.064379, "height":0.109082}, "confidence":0.998533}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686470, "center_y":0.201385, "width":0.061021, "height":0.107799}, "confidence":0.996684}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195241, "center_y":0.200079, "width":0.058896, "height":0.098163}, "confidence":0.998368}
+ ] 
+}, 
+{
+ "frame_id":125, 
+ "filename":"data/staircase/frame71.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429980, "center_y":0.858006, "width":0.064124, "height":0.107964}, "confidence":0.995976}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.804836, "center_y":0.655641, "width":0.063277, "height":0.107099}, "confidence":0.992832}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744488, "center_y":0.905663, "width":0.061359, "height":0.114310}, "confidence":0.996673}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.747403, "center_y":0.398180, "width":0.055874, "height":0.088623}, "confidence":0.995613}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370085, "center_y":0.379783, "width":0.060560, "height":0.085567}, "confidence":0.995219}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.311783, "center_y":0.623309, "width":0.062401, "height":0.107496}, "confidence":0.999194}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252770, "center_y":0.155971, "width":0.056607, "height":0.094303}, "confidence":0.982506}
+ ] 
+}, 
+{
+ "frame_id":126, 
+ "filename":"data/staircase/frame78.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429585, "center_y":0.275368, "width":0.055861, "height":0.107920}, "confidence":0.996088}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746160, "center_y":0.283754, "width":0.062460, "height":0.105831}, "confidence":0.996626}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312423, "center_y":0.742746, "width":0.060473, "height":0.108783}, "confidence":0.998906}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686270, "center_y":0.535323, "width":0.062923, "height":0.107071}, "confidence":0.901131}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.628074, "center_y":0.781007, "width":0.059168, "height":0.113953}, "confidence":0.998301}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252370, "center_y":0.959908, "width":0.061618, "height":0.078586}, "confidence":0.752449}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195098, "center_y":0.509629, "width":0.058940, "height":0.102957}, "confidence":0.994761}
+ ] 
+}, 
+{
+ "frame_id":127, 
+ "filename":"data/staircase/frame64.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370325, "center_y":0.958749, "width":0.061354, "height":0.085362}, "confidence":0.990852}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686340, "center_y":0.778942, "width":0.064284, "height":0.109486}, "confidence":0.998750}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.313090, "center_y":0.503578, "width":0.066336, "height":0.097976}, "confidence":0.996030}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.625691, "center_y":0.521901, "width":0.058272, "height":0.108909}, "confidence":0.998851}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252349, "center_y":0.739769, "width":0.058634, "height":0.107906}, "confidence":0.995199}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.568465, "center_y":0.282943, "width":0.061059, "height":0.104048}, "confidence":0.994682}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.195354, "center_y":0.270479, "width":0.059885, "height":0.101896}, "confidence":0.987502}
+ ] 
+}, 
+{
+ "frame_id":128, 
+ "filename":"data/staircase/frame54.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.748629, "center_y":0.417107, "width":0.058072, "height":0.107016}, "confidence":0.993584}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370263, "center_y":0.382057, "width":0.060508, "height":0.078701}, "confidence":0.992469}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685850, "center_y":0.668924, "width":0.063280, "height":0.107638}, "confidence":0.998491}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312358, "center_y":0.869066, "width":0.061022, "height":0.108537}, "confidence":0.998472}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312385, "center_y":0.164575, "width":0.059330, "height":0.112597}, "confidence":0.996507}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.626880, "center_y":0.916611, "width":0.060811, "height":0.116641}, "confidence":0.998896}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.252825, "center_y":0.635003, "width":0.061742, "height":0.115222}, "confidence":0.997299}
+ ] 
+}, 
+{
+ "frame_id":129, 
+ "filename":"data/staircase/frame122.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.429208, "center_y":0.361765, "width":0.057962, "height":0.114516}, "confidence":0.993577}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.746184, "center_y":0.367324, "width":0.060148, "height":0.098442}, "confidence":0.995887}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.685413, "center_y":0.624694, "width":0.063802, "height":0.110267}, "confidence":0.998830}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312364, "center_y":0.826918, "width":0.063241, "height":0.110919}, "confidence":0.997839}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627372, "center_y":0.872388, "width":0.061260, "height":0.115227}, "confidence":0.998912}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194938, "center_y":0.591632, "width":0.059448, "height":0.103574}, "confidence":0.996320}
+ ] 
+}, 
+{
+ "frame_id":130, 
+ "filename":"data/staircase/frame34.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430489, "center_y":0.194468, "width":0.061341, "height":0.102059}, "confidence":0.993125}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.568926, "center_y":0.941840, "width":0.057172, "height":0.099931}, "confidence":0.745663}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745291, "center_y":0.196067, "width":0.059120, "height":0.106525}, "confidence":0.981658}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312140, "center_y":0.660401, "width":0.064139, "height":0.109329}, "confidence":0.998712}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686426, "center_y":0.450355, "width":0.065587, "height":0.115974}, "confidence":0.997825}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.627704, "center_y":0.694104, "width":0.062629, "height":0.115078}, "confidence":0.996345}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.254258, "center_y":0.895081, "width":0.062227, "height":0.108755}, "confidence":0.988199}, 
+  {"class_id":0, "name":"Left_Blue", "relative_coordinates":{"center_x":0.194432, "center_y":0.425683, "width":0.057891, "height":0.108295}, "confidence":0.990646}
+ ] 
+}, 
+{
+ "frame_id":131, 
+ "filename":"data/staircase/frame25.jpg", 
+ "objects": [ 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.803269, "center_y":0.747122, "width":0.057055, "height":0.111589}, "confidence":0.996755}, 
+  {"class_id":4, "name":"Right_Blue", "relative_coordinates":{"center_x":0.430563, "center_y":0.926096, "width":0.053487, "height":0.073661}, "confidence":0.773494}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.370969, "center_y":0.479216, "width":0.062397, "height":0.101788}, "confidence":0.997593}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.744517, "center_y":0.495126, "width":0.064389, "height":0.111496}, "confidence":0.996965}, 
+  {"class_id":3, "name":"Right_Red", "relative_coordinates":{"center_x":0.745578, "center_y":0.970420, "width":0.061309, "height":0.056068}, "confidence":0.910705}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.312155, "center_y":0.707768, "width":0.059815, "height":0.105496}, "confidence":0.998724}, 
+  {"class_id":2, "name":"Centre", "relative_coordinates":{"center_x":0.686494, "center_y":0.246243, "width":0.064915, "height":0.107895}, "confidence":0.998305}, 
+  {"class_id":1, "name":"Left_Red", "relative_coordinates":{"center_x":0.253039, "center_y":0.238770, "width":0.060309, "height":0.114462}, "confidence":0.998222}
+ ] 
+}
+]
